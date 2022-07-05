@@ -1,0 +1,601 @@
+C:\A\repo\Harvest_Distill_Learn\debug_Harvest.txt Created 7/4/2022 2:54:05 AM
+7/4/2022 2:54:05 AM Fetching [https://go.dev/] to [C:\A\repo\Harvest_Distill_Learn\Q\go.dev site\#\f20b23a020101dce47ddb1e38b5c7a41.txt]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/solutions/]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/learn/]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/doc/]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/play/]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/blog/]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/dl]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/dl/]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/solutions/google/]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/solutions/paypal]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/solutions/americanexpress]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/solutions/mercadolibre]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/tour/]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/solutions/cloud/]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/solutions/clis/]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/pkg/net/http/]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/pkg/html/template/]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/pkg/database/sql/]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/solutions/webdev/]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/solutions/devops/]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/learn]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/play]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/help/]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/pkg/]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/project]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/doc/devel/release]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/blog/go-brand]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/conduct]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/copyright]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/tos]
+7/4/2022 2:54:06 AM Site Match for preitem:[https://go.dev/s/website-issue]
+7/4/2022 2:54:06 AM Quantum finished, did work
+7/4/2022 2:54:16 AM Quantum started
+7/4/2022 2:54:16 AM Fetching [https://www.bing.com/search?q=Golang] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\69efd3385427bcd169fe456070addfab.txt]
+7/4/2022 2:54:18 AM Fetching [https://search.yahoo.com/search?p=Golang] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\11317bb77c4b0b2db268983deba3e24d.txt]
+7/4/2022 2:54:19 AM Fetching [https://html.duckduckgo.com/html/?q=Golang] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\dcd9a8eceeef742238b60f5cbeee825e.txt]
+7/4/2022 2:54:20 AM Fetching [https://searx.run/search?q=Golang] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\0295a69c59163219065befdd1b5d00ca.txt]
+7/4/2022 2:54:22 AM 0295a69c59163219065befdd1b5d00ca.txt: serps:2 https://en.wikipedia.org/wiki/Go_(programming_language)
+7/4/2022 2:54:22 AM 0295a69c59163219065befdd1b5d00ca.txt: serps:2 https://go.dev
+7/4/2022 2:54:22 AM 0295a69c59163219065befdd1b5d00ca.txt: serps:2 https://www.freecodecamp.org/news/what-is-go-programming-language/
+7/4/2022 2:54:22 AM 0295a69c59163219065befdd1b5d00ca.txt: serps:2 https://careerkarma.com/blog/is-golang-worth-learning/
+7/4/2022 2:54:22 AM 0295a69c59163219065befdd1b5d00ca.txt: serps:2 https://www.developer.com/languages/web-development-golang/
+7/4/2022 2:54:22 AM 0295a69c59163219065befdd1b5d00ca.txt: serps:2 https://www.geeksforgeeks.org/top-5-golang-frameworks-in-2020/
+7/4/2022 2:54:22 AM 0295a69c59163219065befdd1b5d00ca.txt: serps:2 https://www.geeksforgeeks.org/hello-world-in-golang/
+7/4/2022 2:54:22 AM 0295a69c59163219065befdd1b5d00ca.txt: serps:2 https://www.geeksforgeeks.org/golang-gopath-and-goroot/
+7/4/2022 2:54:22 AM 0295a69c59163219065befdd1b5d00ca.txt: serps:2 https://www.geeksforgeeks.org/class-and-object-in-golang/
+7/4/2022 2:54:22 AM 0295a69c59163219065befdd1b5d00ca.txt: serps:2 https://go.dev/blog/get-familiar-with-workspaces
+7/4/2022 2:54:22 AM 0295a69c59163219065befdd1b5d00ca.txt: serps:2 https://www.includehelp.com/golang/assignment-operators.aspx
+7/4/2022 2:54:22 AM 0295a69c59163219065befdd1b5d00ca.txt: serps:2 https://blog.logrocket.com/using-sql-database-golang/
+7/4/2022 2:54:22 AM 0295a69c59163219065befdd1b5d00ca.txt: serps:2 https://www.geeksforgeeks.org/pointers-in-golang/
+7/4/2022 2:54:22 AM 0295a69c59163219065befdd1b5d00ca.txt: serps:2 https://www.interviewbit.com/blog/golang-vs-python/
+7/4/2022 2:54:22 AM 0295a69c59163219065befdd1b5d00ca.txt: serps:2 https://realtoughcandy.com/best-golang-books/
+7/4/2022 2:54:22 AM 0295a69c59163219065befdd1b5d00ca.txt: serps:2 https://www.sohamkamani.com/golang/enums/
+7/4/2022 2:54:22 AM 0295a69c59163219065befdd1b5d00ca.txt: serps:2 https://www.techtarget.com/searchapparchitecture/tip/A-language-comparison-of-Ballerina-vs-Golang
+7/4/2022 2:54:22 AM 0295a69c59163219065befdd1b5d00ca.txt: serps:2 https://computingforgeeks.com/install-go-golang-on-centos-rhel-linux/
+7/4/2022 2:54:22 AM 0295a69c59163219065befdd1b5d00ca.txt: serps:2 https://www.geeksforgeeks.org/golang-maps/
+7/4/2022 2:54:22 AM 11317bb77c4b0b2db268983deba3e24d.txt: serpy:2 https://go.dev/
+7/4/2022 2:54:22 AM 11317bb77c4b0b2db268983deba3e24d.txt: serpy:2 https://en.wikipedia.org/wiki/Go_(programming_language)
+7/4/2022 2:54:22 AM 11317bb77c4b0b2db268983deba3e24d.txt: serpy:2 https://www.geeksforgeeks.org/golang/
+7/4/2022 2:54:22 AM 11317bb77c4b0b2db268983deba3e24d.txt: serpy:2 https://www.geeksforgeeks.org/golang-tutorial-learn-go-programming-language/
+7/4/2022 2:54:22 AM 11317bb77c4b0b2db268983deba3e24d.txt: serpy:2 https://www.quora.com/Should-learn-Golang-as-my-first-langauge
+7/4/2022 2:54:22 AM 11317bb77c4b0b2db268983deba3e24d.txt: serpy:2 https://www.tecmint.com/install-go-in-linux/
+7/4/2022 2:54:22 AM 11317bb77c4b0b2db268983deba3e24d.txt: serpy:2 https://www.quora.com/Why-does-Golang-stand-apart-from-the-other-languages
+7/4/2022 2:54:22 AM 11317bb77c4b0b2db268983deba3e24d.txt: serpy:2 https://www.freecodecamp.org/news/what-is-go-programming-language/
+7/4/2022 2:54:22 AM 69efd3385427bcd169fe456070addfab.txt: serpb:2 https://www.quora.com/Should-learn-Golang-as-my-first-langauge
+7/4/2022 2:54:22 AM 69efd3385427bcd169fe456070addfab.txt: serpb:2 https://www.tecmint.com/install-go-in-linux/
+7/4/2022 2:54:22 AM 69efd3385427bcd169fe456070addfab.txt: serpb:2 https://www.quora.com/Why-does-Golang-stand-apart-from-the-other-languages
+7/4/2022 2:54:22 AM dcd9a8eceeef742238b60f5cbeee825e.txt: serpd:2 https://go.dev/
+7/4/2022 2:54:22 AM dcd9a8eceeef742238b60f5cbeee825e.txt: serpd:2 https://www.geeksforgeeks.org/golang/
+7/4/2022 2:54:22 AM dcd9a8eceeef742238b60f5cbeee825e.txt: serpd:2 https://en.wikipedia.org/wiki/Go_(programming_language)
+7/4/2022 2:54:22 AM dcd9a8eceeef742238b60f5cbeee825e.txt: serpd:2 https://www.geeksforgeeks.org/golang-tutorial-learn-go-programming-language/
+7/4/2022 2:54:22 AM dcd9a8eceeef742238b60f5cbeee825e.txt: serpd:2 https://www.edureka.co/blog/golang-tutorial/
+7/4/2022 2:54:22 AM dcd9a8eceeef742238b60f5cbeee825e.txt: serpd:2 https://www.freecodecamp.org/news/what-is-go-programming-language/
+7/4/2022 2:54:22 AM dcd9a8eceeef742238b60f5cbeee825e.txt: serpd:2 https://www.educative.io/blog/golang-tutorial
+7/4/2022 2:54:22 AM dcd9a8eceeef742238b60f5cbeee825e.txt: serpd:2 https://www.techtarget.com/searchitoperations/definition/Go-programming-language
+7/4/2022 2:54:22 AM dcd9a8eceeef742238b60f5cbeee825e.txt: serpd:2 https://stackoverflow.com/questions/16577601/what-does-mean-in-go
+7/4/2022 2:54:22 AM dcd9a8eceeef742238b60f5cbeee825e.txt: serpd:2 https://www.trio.dev/blog/what-is-golang-used-for
+7/4/2022 2:54:22 AM dcd9a8eceeef742238b60f5cbeee825e.txt: serpd:2 https://www.w3schools.com/go/index.php
+7/4/2022 2:54:22 AM dcd9a8eceeef742238b60f5cbeee825e.txt: serpd:2 https://www.runoob.com/go/go-tutorial.html
+7/4/2022 2:54:22 AM dcd9a8eceeef742238b60f5cbeee825e.txt: serpd:2 https://go.dev/dl/
+7/4/2022 2:54:22 AM dcd9a8eceeef742238b60f5cbeee825e.txt: serpd:2 https://golangdocs.com/golang-rest-api
+7/4/2022 2:54:22 AM dcd9a8eceeef742238b60f5cbeee825e.txt: serpd:2 https://golang.google.cn/doc/
+7/4/2022 2:54:22 AM dcd9a8eceeef742238b60f5cbeee825e.txt: serpd:2 https://golangdocs.com/golang-web-application
+7/4/2022 2:54:22 AM dcd9a8eceeef742238b60f5cbeee825e.txt: serpd:2 https://www.trio.dev/blog/golang-vs-rust
+7/4/2022 2:54:22 AM dcd9a8eceeef742238b60f5cbeee825e.txt: serpd:2 https://play.golang.com/
+7/4/2022 2:54:22 AM dcd9a8eceeef742238b60f5cbeee825e.txt: serpd:2 https://www.computerhope.com/jargon/g/golang.htm
+7/4/2022 2:54:22 AM dcd9a8eceeef742238b60f5cbeee825e.txt: serpd:2 https://www.tutorialspoint.com/go/index.htm
+7/4/2022 2:54:22 AM dcd9a8eceeef742238b60f5cbeee825e.txt: serpd:2 https://www.golangprograms.com/go-language/operators.html
+7/4/2022 2:54:22 AM dcd9a8eceeef742238b60f5cbeee825e.txt: serpd:2 https://www.onlinegdb.com/online_go_compiler
+7/4/2022 2:54:22 AM dcd9a8eceeef742238b60f5cbeee825e.txt: serpd:2 https://www.tabnine.com/blog/top-7-golang-ides-for-go-developers/
+7/4/2022 2:54:22 AM dcd9a8eceeef742238b60f5cbeee825e.txt: serpd:2 https://www.jetbrains.com/go/
+7/4/2022 2:54:22 AM dcd9a8eceeef742238b60f5cbeee825e.txt: serpd:2 https://golang.hotexamples.com/
+7/4/2022 2:54:22 AM dcd9a8eceeef742238b60f5cbeee825e.txt: serpd:2 https://www.golangprograms.com/
+7/4/2022 2:54:22 AM Quantum finished, did work
+7/4/2022 2:54:32 AM Quantum started
+7/4/2022 2:54:32 AM Fetching [https://en.wikipedia.org/wiki/Go_(programming_language)] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\09866cb455e9888d5414909a5485a6cb.txt]
+7/4/2022 2:54:33 AM Fetching [https://www.freecodecamp.org/news/what-is-go-programming-language/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\10291756cce033853218541c9fd8bcd2.txt]
+7/4/2022 2:54:33 AM Fetching [https://careerkarma.com/blog/is-golang-worth-learning/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\ba674d8ea0c00aa2b95fc31c05c4367a.txt]
+7/4/2022 2:54:34 AM Fetching [https://www.developer.com/languages/web-development-golang/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\c8aee51b66ac6e5bb60f6442a9012468.txt]
+7/4/2022 2:54:35 AM Fetching [https://www.geeksforgeeks.org/top-5-golang-frameworks-in-2020/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\36994dc9cf557f00d15963312e40a5a8.txt]
+7/4/2022 2:54:36 AM Fetching [https://www.includehelp.com/golang/assignment-operators.aspx] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\0051e193b6d1bfe0b373c417bf02d42e.txt]
+7/4/2022 2:54:38 AM Fetching [https://blog.logrocket.com/using-sql-database-golang/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\93c1185c8102f37bb6284b69427a346d.txt]
+7/4/2022 2:54:40 AM Fetching [https://www.interviewbit.com/blog/golang-vs-python/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\725db8978a516879b07a178f4b9a84f3.txt]
+7/4/2022 2:54:40 AM Fetching [https://realtoughcandy.com/best-golang-books/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\102038ef0df118309ec61a156ca76933.txt]
+7/4/2022 2:54:41 AM Fetching [https://www.sohamkamani.com/golang/enums/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\b9b5bcc06a3aae94a254ff04809e4f57.txt]
+7/4/2022 2:54:42 AM Fetching [https://www.techtarget.com/searchapparchitecture/tip/A-language-comparison-of-Ballerina-vs-Golang] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\ba520b2f6900da40e8c7ef92f1c0e93e.txt]
+7/4/2022 2:54:43 AM Fetching [https://computingforgeeks.com/install-go-golang-on-centos-rhel-linux/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\9dedf72e5b32e2b85d17ce243442a260.txt]
+7/4/2022 2:54:45 AM Fetching [https://www.quora.com/Should-learn-Golang-as-my-first-langauge] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\15051f88bb2cb3c1d8037f5fee85f545.txt]
+7/4/2022 2:54:45 AM Fetching [https://www.tecmint.com/install-go-in-linux/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\db484cccdfe516ae90e2c077fdb99231.txt]
+7/4/2022 2:54:46 AM Fetching [https://www.edureka.co/blog/golang-tutorial/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\d524bf74776e5a4d6ae1ed51b61ea85f.txt]
+7/4/2022 2:54:47 AM Fetching [https://www.educative.io/blog/golang-tutorial] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\07c351daac69d5f0a068a0eb89b0ca42.txt]
+7/4/2022 2:54:49 AM Fetching [https://stackoverflow.com/questions/16577601/what-does-mean-in-go] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\5339efef78384cca323fdb772b9cdac4.txt]
+7/4/2022 2:54:50 AM Fetching [https://www.trio.dev/blog/what-is-golang-used-for] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\793e6826cebc7ea45a367669b24d3b93.txt]
+7/4/2022 2:54:50 AM Fetching [https://www.w3schools.com/go/index.php] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\54e156351f0e72ee8259f7bb640ae83e.txt]
+7/4/2022 2:54:50 AM Fetching [https://www.runoob.com/go/go-tutorial.html] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\2658a662fde59700600cdf5bdcac02ed.txt]
+7/4/2022 2:54:51 AM Fetching [https://golangdocs.com/golang-rest-api] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\1b00d7ce53800b5d1424b74cbc0e6f40.txt]
+7/4/2022 2:54:51 AM Fetching [https://golang.google.cn/doc/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\e0820e54a3a9d5c772bc3929633d6eb7.txt]
+7/4/2022 2:54:52 AM Fetching [https://play.golang.com/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\1efd341a6859620cc566df7e431b3d73.txt]
+7/4/2022 2:54:52 AM Fetching [https://www.computerhope.com/jargon/g/golang.htm] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\97e8974b62ecc1f9835b45add857a2e8.txt]
+7/4/2022 2:54:52 AM Fetching [https://www.tutorialspoint.com/go/index.htm] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\e354955846f3ccdfecfae040fdd766f1.txt]
+7/4/2022 2:54:52 AM Fetching [https://www.golangprograms.com/go-language/operators.html] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\b09c91b12155149b4f7acf3a5665fb67.txt]
+7/4/2022 2:54:53 AM doFetch threw [The remote server returned an error: (400) Bad Request.] on [https://www.golangprograms.com/go-language/operators.html]
+7/4/2022 2:54:53 AM Fetching [https://www.onlinegdb.com/online_go_compiler] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\56c9fd9a1e2d81a53be96cf1c8f58936.txt]
+7/4/2022 2:54:53 AM Fetching [https://www.tabnine.com/blog/top-7-golang-ides-for-go-developers/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\421a92fdca0208f8ad8ab7a675b23244.txt]
+7/4/2022 2:54:54 AM Fetching [https://www.jetbrains.com/go/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\7203bfa20a5deb6ae5ccf396186582a7.txt]
+7/4/2022 2:54:55 AM Fetching [https://golang.hotexamples.com/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\0381617fee9f7a2b0858b00769fddb2b.txt]
+7/4/2022 2:54:55 AM doFetch threw [The remote server returned an error: (500) Internal Server Error.] on [https://golang.hotexamples.com/]
+7/4/2022 2:54:56 AM 2658a662fde59700600cdf5bdcac02ed.txt: error: Bad Parse: 8.256: End tag </[fffd]=[fffd]v0[27a]l[fffd][0e][13]p[fffd]l[1a5][11][1c][fffd]6m[fffd]: []
+7/4/2022 2:54:56 AM 2658a662fde59700600cdf5bdcac02ed.txt: error: Bad Parse: 8.310: End tag </_[fffd][fffd][fffd]c[fffd]"d[fffd][fffd][fffd][fffd]j[1a]{&[fffd]r[fff: []
+7/4/2022 2:54:56 AM 2658a662fde59700600cdf5bdcac02ed.txt: error: Bad Parse: 11.203: End tag </z[fffd][748][fffd][16]p+[fffd][fffd][fffd][fffd]'[fffd][08]n#[fffd][ff: []
+7/4/2022 2:54:56 AM 2658a662fde59700600cdf5bdcac02ed.txt: error: Bad Parse: 12.259: End tag </[fffd]k[0f]@[fffd][451][fffd]j[fffd]u[fffd][fffd][1f][fffd]> was not f: []
+7/4/2022 2:54:56 AM 2658a662fde59700600cdf5bdcac02ed.txt: error: Bad Parse: 30.74: End tag </[fffd][15][fffd]d[fffd]&#+[fffd][fffd][fffd]@s[fffd][fffd]f[fffd][fffd: []
+7/4/2022 2:54:56 AM 2658a662fde59700600cdf5bdcac02ed.txt: error: Bad Parse: 46.123: End tag </c[1b]3[fffd][fffd]ixy[fffd]z[ca2][fffd]hl[11][1a][fffd]d"[fffd]t[11]]f: []
+7/4/2022 2:54:56 AM 2658a662fde59700600cdf5bdcac02ed.txt: error: Bad Parse: 47.5: End tag </[07][fffd][fffd][fffd]e;`[fffd][0b]([13][0e]ov[fffd][0c][fffd]y[1e][15: []
+7/4/2022 2:54:56 AM 2658a662fde59700600cdf5bdcac02ed.txt: error: Bad Parse: 64.125: End tag </[fffd][fffd]kw[10][fffd][10][19][fffd]k[7f]b[fffd]_[fffd][13]:n[fffd][: []
+7/4/2022 2:54:56 AM 2658a662fde59700600cdf5bdcac02ed.txt: error: Bad Parse: 80.66: End tag </[fffd]b8%\[fffd][635][19][1a]s[fffd][0e]r[fffd][fffd]s[fffd]d[fffd][ff: []
+7/4/2022 2:54:56 AM 2658a662fde59700600cdf5bdcac02ed.txt: error: Bad Parse: 99.257: End tag </ef[fffd]@[1cc][fffd][fffd][fffd]o|[fffd][fffd]cj@[fffd]o[fffd][1e][fff: []
+7/4/2022 2:54:56 AM 2658a662fde59700600cdf5bdcac02ed.txt: error: Bad Parse: 104.127: End tag </ld[fffd][fffd]dm[fffd][fffd]a#[fffd][f5][10d][76e][fffd]2y[fffd][03]gb: []
+7/4/2022 2:54:56 AM 2658a662fde59700600cdf5bdcac02ed.txt: error: Bad Parse: 108.83: End tag </[fffd][fffd]d&[fffd]s{p[fffd][1f][fffd][fffd]y[fffd]v}[fffd][7f]x"[1d2: []
+7/4/2022 2:54:56 AM 2658a662fde59700600cdf5bdcac02ed.txt: error: Bad Parse: 115.12: End tag </[fffd][fffd]a^[fffd][fffd][0e][03]5/[fffd]f[fffd][16]j4l[fffd]kx[18][1: []
+7/4/2022 2:54:58 AM Quantum finished, did work
+7/4/2022 2:55:08 AM Quantum started
+7/4/2022 2:55:08 AM Quantum finished, done.
+7/4/2022 2:55:18 AM Quantum started
+7/4/2022 2:55:19 AM Quantum finished, done.
+7/4/2022 2:55:29 AM Quantum started
+7/4/2022 2:55:29 AM Quantum finished, done.
+7/4/2022 2:55:39 AM Quantum started
+7/4/2022 2:55:39 AM Fetching [https://go.dev/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\f20b23a020101dce47ddb1e38b5c7a41.txt]
+7/4/2022 2:55:39 AM Quantum finished, did work
+7/4/2022 2:55:49 AM Quantum started
+7/4/2022 2:55:49 AM Fetching [https://www.bing.com/search?q=Kubernetes] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\922147e9d92e90572f25aaacc6e4386c.txt]
+7/4/2022 2:55:51 AM Fetching [https://search.yahoo.com/search?p=Kubernetes] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\856cafea45bb57f65ea0c8a372f989c2.txt]
+7/4/2022 2:55:52 AM 856cafea45bb57f65ea0c8a372f989c2.txt: serpy:2 https://kubernetes.io/
+7/4/2022 2:55:52 AM 856cafea45bb57f65ea0c8a372f989c2.txt: serpy:2 https://en.wikipedia.org/wiki/Kubernetes
+7/4/2022 2:55:52 AM 856cafea45bb57f65ea0c8a372f989c2.txt: serpy:2 https://azure.microsoft.com/en-us/topic/what-is-kubernetes/
+7/4/2022 2:55:52 AM 856cafea45bb57f65ea0c8a372f989c2.txt: serpy:2 https://www.ibm.com/cloud/learn/kubernetes
+7/4/2022 2:55:52 AM 856cafea45bb57f65ea0c8a372f989c2.txt: serpy:2 https://www.infoworld.com/article/3173266/4-reasons-you-should-use-kubernetes.html
+7/4/2022 2:55:52 AM 856cafea45bb57f65ea0c8a372f989c2.txt: serpy:2 https://www.site24x7.com/learn/kubernetes/introduction-to-kubernetes.html
+7/4/2022 2:55:52 AM 856cafea45bb57f65ea0c8a372f989c2.txt: serpy:2 https://www.weave.works/technologies/the-journey-to-kubernetes/
+7/4/2022 2:55:52 AM 856cafea45bb57f65ea0c8a372f989c2.txt: serpy:2 https://www.tutorialspoint.com/kubernetes/kubernetes_architecture.htm
+7/4/2022 2:55:52 AM 856cafea45bb57f65ea0c8a372f989c2.txt: serpy:2 https://news.search.yahoo.com/search?p=Kubernetes&fr2=p%3As%2Cv%3Aw%2Cm%3Anewsdd_bn_t%2Cct%3Abing
+7/4/2022 2:55:52 AM 856cafea45bb57f65ea0c8a372f989c2.txt: serpy:2 https://www.redhat.com/en/topics/containers/what-is-kubernetes
+7/4/2022 2:55:52 AM 922147e9d92e90572f25aaacc6e4386c.txt: serpb:2 https://www.infoworld.com/article/3173266/4-reasons-you-should-use-kubernetes.html
+7/4/2022 2:55:52 AM 922147e9d92e90572f25aaacc6e4386c.txt: serpb:2 https://www.site24x7.com/learn/kubernetes/introduction-to-kubernetes.html
+7/4/2022 2:55:52 AM 922147e9d92e90572f25aaacc6e4386c.txt: serpb:2 https://www.weave.works/technologies/the-journey-to-kubernetes/
+7/4/2022 2:55:52 AM 922147e9d92e90572f25aaacc6e4386c.txt: serpb:2 https://www.tutorialspoint.com/kubernetes/kubernetes_architecture.htm
+7/4/2022 2:55:52 AM Quantum finished, did work
+7/4/2022 2:56:02 AM Quantum started
+7/4/2022 2:56:02 AM Fetching [https://www.geeksforgeeks.org/hello-world-in-golang/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\1e92df64ebd87bf783aa9ecfe278862e.txt]
+7/4/2022 2:56:05 AM Fetching [https://kubernetes.io/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\5af58f236178ea35a0dd937ff57a09f4.txt]
+7/4/2022 2:56:05 AM Fetching [https://azure.microsoft.com/en-us/topic/what-is-kubernetes/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\0dae2cc49531eb29c4be59b73f86fd4e.txt]
+7/4/2022 2:56:06 AM Fetching [https://www.ibm.com/cloud/learn/kubernetes] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\003f5fa99b98fb83a087a8a77062bb44.txt]
+7/4/2022 2:56:07 AM Fetching [https://www.infoworld.com/article/3173266/4-reasons-you-should-use-kubernetes.html] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\1c99e71f9063cd0a2a6b9b31457e0896.txt]
+7/4/2022 2:56:07 AM Fetching [https://www.site24x7.com/learn/kubernetes/introduction-to-kubernetes.html] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\a8a14b4059ce43af435f9e75f51d4735.txt]
+7/4/2022 2:56:08 AM Bad nexus = weave.works
+7/4/2022 2:56:08 AM Fetching [https://www.redhat.com/en/topics/containers/what-is-kubernetes] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\772c9431a487e9a9b6ec2d9cb24c259a.txt]
+7/4/2022 2:56:09 AM Quantum finished, did work
+7/4/2022 2:56:19 AM Quantum started
+7/4/2022 2:56:19 AM Fetching [https://html.duckduckgo.com/html/?q=Kubernetes] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\339b55c020b22b4d824e451fbc0c20cb.txt]
+7/4/2022 2:56:20 AM Fetching [https://searx.run/search?q=Kubernetes] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\dc6de12fb32407f7d34b3c2f3e7992ed.txt]
+7/4/2022 2:56:22 AM Fetching [https://golangdocs.com/golang-web-application] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\026a90bfef72855ff20072d7a8dc21fa.txt]
+7/4/2022 2:56:23 AM 339b55c020b22b4d824e451fbc0c20cb.txt: serpd:2 https://kubernetes.io/
+7/4/2022 2:56:23 AM 339b55c020b22b4d824e451fbc0c20cb.txt: serpd:2 https://en.wikipedia.org/wiki/Kubernetes
+7/4/2022 2:56:23 AM 339b55c020b22b4d824e451fbc0c20cb.txt: serpd:2 https://azure.microsoft.com/en-us/topic/what-is-kubernetes/
+7/4/2022 2:56:23 AM 339b55c020b22b4d824e451fbc0c20cb.txt: serpd:2 https://www.ibm.com/cloud/learn/kubernetes
+7/4/2022 2:56:23 AM 339b55c020b22b4d824e451fbc0c20cb.txt: serpd:2 https://www.redhat.com/en/topics/containers/what-is-kubernetes
+7/4/2022 2:56:23 AM 339b55c020b22b4d824e451fbc0c20cb.txt: serpd:2 https://www.oracle.com/cloud/cloud-native/container-engine-kubernetes/what-is-kubernetes/
+7/4/2022 2:56:23 AM 339b55c020b22b4d824e451fbc0c20cb.txt: serpd:2 https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/
+7/4/2022 2:56:23 AM 339b55c020b22b4d824e451fbc0c20cb.txt: serpd:2 https://www.bmc.com/blogs/what-is-kubernetes/
+7/4/2022 2:56:23 AM 339b55c020b22b4d824e451fbc0c20cb.txt: serpd:2 https://aws.amazon.com/kubernetes/
+7/4/2022 2:56:23 AM 339b55c020b22b4d824e451fbc0c20cb.txt: serpd:2 https://azure.microsoft.com/en-in/topic/what-is-kubernetes/
+7/4/2022 2:56:23 AM 339b55c020b22b4d824e451fbc0c20cb.txt: serpd:2 https://zhuanlan.zhihu.com/p/29232090
+7/4/2022 2:56:23 AM 339b55c020b22b4d824e451fbc0c20cb.txt: serpd:2 https://www.geeksforgeeks.org/introduction-to-kubernetes-k8s/
+7/4/2022 2:56:23 AM 339b55c020b22b4d824e451fbc0c20cb.txt: serpd:2 https://www.tutorialspoint.com/kubernetes/index.htm
+7/4/2022 2:56:23 AM 339b55c020b22b4d824e451fbc0c20cb.txt: serpd:2 https://www.javatpoint.com/kubernetes
+7/4/2022 2:56:23 AM 339b55c020b22b4d824e451fbc0c20cb.txt: serpd:2 https://cloud.google.com/learn/what-is-kubernetes
+7/4/2022 2:56:23 AM 339b55c020b22b4d824e451fbc0c20cb.txt: serpd:2 https://www.cncf.io/projects/kubernetes/
+7/4/2022 2:56:23 AM 339b55c020b22b4d824e451fbc0c20cb.txt: serpd:2 https://www.techtarget.com/searchitoperations/tutorial/A-step-by-step-tutorial-for-Kubernetes-implementation
+7/4/2022 2:56:23 AM 339b55c020b22b4d824e451fbc0c20cb.txt: serpd:2 https://www.ibm.com/cloud/blog/openshift-vs-kubernetes
+7/4/2022 2:56:23 AM 339b55c020b22b4d824e451fbc0c20cb.txt: serpd:2 https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes
+7/4/2022 2:56:23 AM 339b55c020b22b4d824e451fbc0c20cb.txt: serpd:2 https://www.tutorialspoint.com/kubernetes/kubernetes_architecture.htm
+7/4/2022 2:56:23 AM 339b55c020b22b4d824e451fbc0c20cb.txt: serpd:2 https://cloud.google.com/kubernetes-engine/
+7/4/2022 2:56:23 AM 339b55c020b22b4d824e451fbc0c20cb.txt: serpd:2 https://www.kubernetes.org.cn/k8s
+7/4/2022 2:56:23 AM 339b55c020b22b4d824e451fbc0c20cb.txt: serpd:2 https://www.docker.com/products/kubernetes/
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://en.wikipedia.org/wiki/Kubernetes
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://kubernetes.io/
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://www.bing.com/ck/a?!&amp;&amp;p=baddef9406adc237JmltdHM9MTY1NjkyMTM4MiZpZ3VpZD1hOGQyMGUzNi02NDFkLTQyYTctYjE2OC1jY2EyMzYyZWJjNTUmaW5zaWQ9NTExNA&amp;ptn=3&amp;hsh=3&amp;fclid=cb9190bf-fb6e-11ec-bc63-6bb956d63201&amp;u=a1aHR0cHM6Ly9hd3MuYW1hem9uLmNvbS9la3Mv&amp;ntb=1
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://www.bing.com/ck/a?!&amp;&amp;p=14771ce4ac823894JmltdHM9MTY1NjkyMTM4MiZpZ3VpZD1hOGQyMGUzNi02NDFkLTQyYTctYjE2OC1jY2EyMzYyZWJjNTUmaW5zaWQ9NTEyOQ&amp;ptn=3&amp;hsh=3&amp;fclid=cb91b271-fb6e-11ec-9edb-2d0f0a1fdc4e&amp;u=a1aHR0cHM6Ly93d3cua2F0YWNvZGEuY29tL2NvdXJzZXMva3ViZXJuZXRlcw&amp;ntb=1
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://www.ibm.com/cloud/learn/kubernetes
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://www.bing.com/ck/a?!&amp;&amp;p=c888550916166e6bJmltdHM9MTY1NjkyMTM4MiZpZ3VpZD1hOGQyMGUzNi02NDFkLTQyYTctYjE2OC1jY2EyMzYyZWJjNTUmaW5zaWQ9NTE0NA&amp;ptn=3&amp;hsh=3&amp;fclid=cb91c6ec-fb6e-11ec-9cb6-20ebe3ab5fca&amp;u=a1aHR0cHM6Ly9zby5jc2RuLm5ldC9zby9zZWFyY2g_cT1LdWJlcm5ldGVz&amp;ntb=1
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://kubernetes.io/docs/tutorials/
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://www.bing.com/ck/a?!&amp;&amp;p=4a7e08e07c982f06JmltdHM9MTY1NjkyMTM4MiZpZ3VpZD1hOGQyMGUzNi02NDFkLTQyYTctYjE2OC1jY2EyMzYyZWJjNTUmaW5zaWQ9NTE1OQ&amp;ptn=3&amp;hsh=3&amp;fclid=cb91d8e1-fb6e-11ec-98b5-ef3d7051b2d2&amp;u=a1aHR0cHM6Ly9rdWJlcm5ldGVzLmlvL3RyYWluaW5nLw&amp;ntb=1
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://kubernetes.io/es/docs/concepts/overview/what-is-kubernetes/
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://www.bing.com/ck/a?!&amp;&amp;p=e3c1ba8c079fcc3fJmltdHM9MTY1NjkyMTM4MiZpZ3VpZD1hOGQyMGUzNi02NDFkLTQyYTctYjE2OC1jY2EyMzYyZWJjNTUmaW5zaWQ9NTE3NQ&amp;ptn=3&amp;hsh=3&amp;fclid=cb91eafa-fb6e-11ec-a166-ae18234d147a&amp;u=a1aHR0cHM6Ly9rM3MuaW8v&amp;ntb=1
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://www.makeuseof.com/what-is-kubernetes/
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://www.bing.com/ck/a?!&amp;&amp;p=4f5291f7a4d2a794JmltdHM9MTY1NjkyMTM4MiZpZ3VpZD1hOGQyMGUzNi02NDFkLTQyYTctYjE2OC1jY2EyMzYyZWJjNTUmaW5zaWQ9NTE5MQ&amp;ptn=3&amp;hsh=3&amp;fclid=cb91fb93-fb6e-11ec-8ee3-efd62f0b34f2&amp;u=a1aHR0cHM6Ly93d3cua3ViZWZsb3cub3JnLw&amp;ntb=1
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://geekflare.com/learn-kubernetes/
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://www.bing.com/ck/a?!&amp;&amp;p=f63de679327ae1bdJmltdHM9MTY1NjkyMTM4MiZpZ3VpZD1hOGQyMGUzNi02NDFkLTQyYTctYjE2OC1jY2EyMzYyZWJjNTUmaW5zaWQ9NTIwNw&amp;ptn=3&amp;hsh=3&amp;fclid=cb920dec-fb6e-11ec-8bd3-54c2ee69620b&amp;u=a1aHR0cHM6Ly9naXRodWIuY29tL2t1YmVybmV0ZXMvbWluaWt1YmU&amp;ntb=1
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://www.simplilearn.com/tutorials/kubernetes-tutorial
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://www.bing.com/ck/a?!&amp;&amp;p=924349a9e7a69ea0JmltdHM9MTY1NjkyMTM4MiZpZ3VpZD1hOGQyMGUzNi02NDFkLTQyYTctYjE2OC1jY2EyMzYyZWJjNTUmaW5zaWQ9NTIyMw&amp;ptn=3&amp;hsh=3&amp;fclid=cb9221f2-fb6e-11ec-a3d3-4ff2146807fb&amp;u=a1aHR0cHM6Ly9sYWJzLnBsYXktd2l0aC1rOHMuY29tLw&amp;ntb=1
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://www.statista.com/topics/8409/kubernetes/
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://www.bing.com/ck/a?!&amp;&amp;p=ca6979d44d7aa2b1JmltdHM9MTY1NjkyMTM4MiZpZ3VpZD1hOGQyMGUzNi02NDFkLTQyYTctYjE2OC1jY2EyMzYyZWJjNTUmaW5zaWQ9NTIzOA&amp;ptn=3&amp;hsh=3&amp;fclid=cb923537-fb6e-11ec-9e8a-31d7e4ed8833&amp;u=a1aHR0cHM6Ly90cmFpbmluZy5wbGF5LXdpdGgta3ViZXJuZXRlcy5jb20v&amp;ntb=1
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://www.redhat.com/en/blog/state-kubernetes-security-2022-1
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://www.bing.com/ck/a?!&amp;&amp;p=cbb71727a7d77152JmltdHM9MTY1NjkyMTM4MiZpZ3VpZD1hOGQyMGUzNi02NDFkLTQyYTctYjE2OC1jY2EyMzYyZWJjNTUmaW5zaWQ9NTI1Mw&amp;ptn=3&amp;hsh=3&amp;fclid=cb9245ba-fb6e-11ec-a06c-727e9623f772&amp;u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0xeG8tMGdDVmhUVQ&amp;ntb=1
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://www.howtogeek.com/devops/do-you-really-need-kubernetes-k8s/
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://phoenixnap.com/kb/kubernetes-delete-namespace
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://www.mirantis.com/blog/kubernetes-cheat-sheet/
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://www.baeldung.com/ops/kubernetes-kind
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://docs.microsoft.com/en-us/azure/defender-for-cloud/defender-for-kubernetes-introduction
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://www.simplilearn.com/tutorials/kubernetes-tutorial/kubernetes-architecture
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://www.whizlabs.com/blog/introduction-to-kubernetes/
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://www.geeksforgeeks.org/kubernetes-concept-of-containers/
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://www.infoworld.com/article/3629750/4-reasons-to-get-kubernetes-certified-and-4-reasons-not-to.html
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://devopscube.com/kubernetes-tutorials-beginners/
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://www.simplilearn.com/tutorials/kubernetes-tutorial/kubernetes-interview-questions
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://docs.microsoft.com/en-us/azure/aks/draft
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://www.redhat.com/sysadmin/troubleshooting-terminating-namespaces
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://cloud.google.com/blog/products/containers-kubernetes/the-rise-and-future-of-kubernetes-and-open-source-at-google
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://www.geeksforgeeks.org/kubernetes-vs-docker/
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://www.infoworld.com/article/3268073/what-is-kubernetes-your-next-application-platform.html
+7/4/2022 2:56:23 AM dc6de12fb32407f7d34b3c2f3e7992ed.txt: serps:2 https://www.guru99.com/kubernetes-tutorial.html
+7/4/2022 2:56:23 AM Quantum finished, did work
+7/4/2022 2:56:33 AM Quantum started
+7/4/2022 2:56:33 AM Fetching [https://www.tutorialspoint.com/kubernetes/kubernetes_architecture.htm] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\f12fac4c4829822b1143aa3223a6ff6b.txt]
+7/4/2022 2:56:33 AM Fetching [https://www.oracle.com/cloud/cloud-native/container-engine-kubernetes/what-is-kubernetes/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\e9bdac6f7e39b4e83cb937069dfb61d6.txt]
+7/4/2022 2:57:33 AM doFetch threw [The operation has timed out] on [https://www.oracle.com/cloud/cloud-native/container-engine-kubernetes/what-is-kubernetes/]
+7/4/2022 2:57:33 AM Fetching [https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\3deba27777b964bf688cde67ff87e0e3.txt]
+7/4/2022 2:57:34 AM Fetching [https://www.bmc.com/blogs/what-is-kubernetes/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\2e856dcbc0e296dd3aadf5eb9b6b0a9a.txt]
+7/4/2022 2:57:35 AM Fetching [https://aws.amazon.com/kubernetes/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\d890d08435eb6d56181ae23b26ef4f2e.txt]
+7/4/2022 2:57:35 AM Fetching [https://zhuanlan.zhihu.com/p/29232090] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\9f370f527a30fb116b85496dff9ae362.txt]
+7/4/2022 2:57:36 AM Fetching [https://www.javatpoint.com/kubernetes] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\3bf2ccb7084401a32b669b09c4cbf0b9.txt]
+7/4/2022 2:57:36 AM Fetching [https://cloud.google.com/learn/what-is-kubernetes] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\17d7a501230ade5e6834e75109bb7297.txt]
+7/4/2022 2:57:38 AM Fetching [https://www.cncf.io/projects/kubernetes/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\5871cdf1111c226c6271bf1252a4d191.txt]
+7/4/2022 2:57:40 AM Fetching [https://www.techtarget.com/searchitoperations/tutorial/A-step-by-step-tutorial-for-Kubernetes-implementation] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\6a7ece26cda832317ad6e189328aec87.txt]
+7/4/2022 2:57:40 AM Fetching [https://www.ibm.com/cloud/blog/openshift-vs-kubernetes] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\017640c32ff4f6c1e504ff86b6190b50.txt]
+7/4/2022 2:57:41 AM Fetching [https://www.kubernetes.org.cn/k8s] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\a6a11f3f3e789f4f9db9e547490f088d.txt]
+7/4/2022 2:57:43 AM Fetching [https://www.docker.com/products/kubernetes/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\2362acffb6cfe922e4705b5e390a4bd4.txt]
+7/4/2022 2:57:44 AM Fetching [https://www.bing.com/ck/a?!&amp;&amp;p=baddef9406adc237JmltdHM9MTY1NjkyMTM4MiZpZ3VpZD1hOGQyMGUzNi02NDFkLTQyYTctYjE2OC1jY2EyMzYyZWJjNTUmaW5zaWQ9NTExNA&amp;ptn=3&amp;hsh=3&amp;fclid=cb9190bf-fb6e-11ec-bc63-6bb956d63201&amp;u=a1aHR0cHM6Ly9hd3MuYW1hem9uLmNvbS9la3Mv&amp;ntb=1] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\12eeb20c3e16378249141f1a53cf5b02.txt]
+7/4/2022 2:57:44 AM Fetching [https://www.makeuseof.com/what-is-kubernetes/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\27fc452c4ad1c37649d5839bd33eb440.txt]
+7/4/2022 2:57:46 AM Fetching [https://geekflare.com/learn-kubernetes/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\acb592e01aa7a33e21a358c89171499d.txt]
+7/4/2022 2:57:47 AM Fetching [https://www.simplilearn.com/tutorials/kubernetes-tutorial] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\e0daeb3c365d629bfb022a3c6a848e6c.txt]
+7/4/2022 2:57:48 AM Fetching [https://www.statista.com/topics/8409/kubernetes/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\85959e00b9cb8eac54f111ae17beed13.txt]
+7/4/2022 2:57:48 AM Fetching [https://www.howtogeek.com/devops/do-you-really-need-kubernetes-k8s/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\d9d40286a82a898995e49edfb5c0dcb5.txt]
+7/4/2022 2:57:49 AM Fetching [https://phoenixnap.com/kb/kubernetes-delete-namespace] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\53beb56c0d04a881471e626e8d2b1f29.txt]
+7/4/2022 2:57:50 AM Fetching [https://www.mirantis.com/blog/kubernetes-cheat-sheet/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\fa0a7fd09bf5a6d66df29efd24cf2e46.txt]
+7/4/2022 2:57:50 AM Fetching [https://www.baeldung.com/ops/kubernetes-kind] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\18c9c17ec5b3366cee1e76cd1691bf00.txt]
+7/4/2022 2:57:51 AM Fetching [https://www.whizlabs.com/blog/introduction-to-kubernetes/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\0b56989882eb99c2f72d6ca5603156f4.txt]
+7/4/2022 2:57:51 AM Fetching [https://devopscube.com/kubernetes-tutorials-beginners/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\8f7d53d05bd272e676a34a941c4bcd88.txt]
+7/4/2022 2:57:52 AM Fetching [https://www.guru99.com/kubernetes-tutorial.html] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\aa9673a179d82614699eb49e269239cb.txt]
+7/4/2022 2:57:53 AM 12eeb20c3e16378249141f1a53cf5b02.txt: moved:3 http://www.msn.com/
+7/4/2022 2:57:55 AM 9f370f527a30fb116b85496dff9ae362.txt: error: Unsupported language [zh]
+7/4/2022 2:57:56 AM Quantum finished, did work
+7/4/2022 2:58:06 AM Quantum started
+7/4/2022 2:58:06 AM Fetching [https://go.dev/blog/get-familiar-with-workspaces] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\831867ea53e62434bc354b5eccb40904.txt]
+7/4/2022 2:58:06 AM Fetching [https://www.quora.com/Why-does-Golang-stand-apart-from-the-other-languages] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\a9263201bc9259bb359dd442f8f16035.txt]
+7/4/2022 2:58:07 AM Fetching [https://www.trio.dev/blog/golang-vs-rust] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\f9dfa5c86d83212ab08e99f3656ee8c6.txt]
+7/4/2022 2:58:07 AM Fetching [https://www.golangprograms.com/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\13b07761c1a67e09ba052d5b174d1c78.txt]
+7/4/2022 2:58:08 AM doFetch threw [The remote server returned an error: (400) Bad Request.] on [https://www.golangprograms.com/]
+7/4/2022 2:58:08 AM Fetching [https://en.wikipedia.org/wiki/Kubernetes] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\d9d9d133f23ee16e2007714c7b538937.txt]
+7/4/2022 2:58:10 AM Fetching [https://news.search.yahoo.com/search?p=Kubernetes&fr2=p:s%2Cv:w%2Cm:newsdd_bn_t%2Cct:bing] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\3414ae8d70d50a278adafd1fb8f26fa9.txt]
+7/4/2022 2:58:12 AM Fetching [https://www.tutorialspoint.com/kubernetes/index.htm] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\8fd1d2eb84adfc4fad64c1028fc6fc06.txt]
+7/4/2022 2:58:12 AM Fetching [https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\ab9909c87b0ff603c409b201d866ec94.txt]
+7/4/2022 2:58:13 AM Fetching [https://www.infoworld.com/article/3629750/4-reasons-to-get-kubernetes-certified-and-4-reasons-not-to.html] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\2bd3fdd2567cca7ee206b3134af78c30.txt]
+7/4/2022 2:58:16 AM Fetching [https://www.geeksforgeeks.org/kubernetes-vs-docker/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\cc6e5ce1aca2ac61667f7cd45e92b837.txt]
+7/4/2022 2:58:17 AM Fetching [http://www.msn.com/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\dd58ef7c2ed559ca0bf60f7833a008ad.txt]
+7/4/2022 2:58:18 AM Quantum finished, did work
+7/4/2022 2:58:28 AM Quantum started
+7/4/2022 2:58:28 AM Fetching [https://www.redhat.com/en/blog/state-kubernetes-security-2022-1] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\87941feec949355bd41694d66432884c.txt]
+7/4/2022 2:58:30 AM Quantum finished, did work
+7/4/2022 2:58:40 AM Quantum started
+7/4/2022 2:58:40 AM Quantum finished, done.
+7/4/2022 2:58:50 AM Quantum started
+7/4/2022 2:58:50 AM Quantum finished, done.
+7/4/2022 2:59:00 AM Quantum started
+7/4/2022 2:59:00 AM Quantum finished, done.
+7/4/2022 2:59:10 AM Quantum started
+7/4/2022 2:59:10 AM Fetching [https://www.techtarget.com/searchitoperations/definition/Go-programming-language] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\5f95c2a1ae9d938b34ab2c0dc918eda2.txt]
+7/4/2022 2:59:11 AM Quantum finished, did work
+7/4/2022 2:59:21 AM Quantum started
+7/4/2022 2:59:21 AM Quantum finished, done.
+7/4/2022 2:59:31 AM Quantum started
+7/4/2022 2:59:31 AM Fetching [https://www.geeksforgeeks.org/golang-gopath-and-goroot/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\26e2bdf0c3f5940e3c57b1ba34b76abe.txt]
+7/4/2022 2:59:32 AM Fetching [https://cloud.google.com/kubernetes-engine/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\cec7e43f4cb66eb554e42a294ab64e48.txt]
+7/4/2022 2:59:36 AM Fetching [https://go.dev/solutions/] to [C:\A\repo\Harvest_Distill_Learn\Q\go.dev site\#\af81b802f4f1c4e00a4e6e10479ad6c7.txt]
+7/4/2022 2:59:37 AM Site Match for preitem:[https://go.dev/solutions/cloud]
+7/4/2022 2:59:37 AM Site Match for preitem:[https://go.dev/solutions/clis]
+7/4/2022 2:59:37 AM Site Match for preitem:[https://go.dev/solutions/webdev]
+7/4/2022 2:59:37 AM Site Match for preitem:[https://go.dev/solutions/devops]
+7/4/2022 2:59:37 AM Quantum finished, did work
+7/4/2022 2:59:47 AM Quantum started
+7/4/2022 2:59:47 AM Quantum finished, done.
+7/4/2022 2:59:57 AM Quantum started
+7/4/2022 2:59:57 AM Fetching [https://azure.microsoft.com/en-in/topic/what-is-kubernetes/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\2a8fbe4b38ad4c413ba6378ec74b5f9d.txt]
+7/4/2022 2:59:59 AM Fetching [https://www.bing.com/ck/a?!&amp;&amp;p=14771ce4ac823894JmltdHM9MTY1NjkyMTM4MiZpZ3VpZD1hOGQyMGUzNi02NDFkLTQyYTctYjE2OC1jY2EyMzYyZWJjNTUmaW5zaWQ9NTEyOQ&amp;ptn=3&amp;hsh=3&amp;fclid=cb91b271-fb6e-11ec-9edb-2d0f0a1fdc4e&amp;u=a1aHR0cHM6Ly93d3cua2F0YWNvZGEuY29tL2NvdXJzZXMva3ViZXJuZXRlcw&amp;ntb=1] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\9db86913363a0466e49ff41b4a009de0.txt]
+7/4/2022 2:59:59 AM Fetching [https://www.simplilearn.com/tutorials/kubernetes-tutorial/kubernetes-architecture] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\17318ae6d3eb066286e3ef7956ddc99f.txt]
+7/4/2022 3:00:00 AM Fetching [https://www.infoworld.com/article/3268073/what-is-kubernetes-your-next-application-platform.html] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\8499bc9730e0092dc4d0afb883209e69.txt]
+7/4/2022 3:00:05 AM 9db86913363a0466e49ff41b4a009de0.txt: moved:3 http://www.msn.com/
+7/4/2022 3:00:05 AM Quantum finished, did work
+7/4/2022 3:00:15 AM Quantum started
+7/4/2022 3:00:15 AM Fetching [https://kubernetes.io/docs/tutorials/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\6dec767e0fceaa05029a47cb4190ab56.txt]
+7/4/2022 3:00:16 AM Quantum finished, did work
+7/4/2022 3:00:26 AM Quantum started
+7/4/2022 3:00:26 AM Fetching [https://www.redhat.com/sysadmin/troubleshooting-terminating-namespaces] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\bb73b3d9701b4c3e61bd118cd36be7aa.txt]
+7/4/2022 3:00:28 AM Quantum finished, did work
+7/4/2022 3:00:38 AM Quantum started
+7/4/2022 3:00:38 AM Quantum finished, done.
+7/4/2022 3:00:48 AM Quantum started
+7/4/2022 3:00:48 AM Fetching [https://www.geeksforgeeks.org/class-and-object-in-golang/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\2779b05ff97e11c68f12223f1b05b6b7.txt]
+7/4/2022 3:00:49 AM Quantum finished, did work
+7/4/2022 3:00:59 AM Quantum started
+7/4/2022 3:00:59 AM Quantum finished, done.
+7/4/2022 3:01:09 AM Quantum started
+7/4/2022 3:01:09 AM Quantum finished, done.
+7/4/2022 3:01:19 AM Quantum started
+7/4/2022 3:01:19 AM Fetching [https://www.bing.com/ck/a?!&amp;&amp;p=c888550916166e6bJmltdHM9MTY1NjkyMTM4MiZpZ3VpZD1hOGQyMGUzNi02NDFkLTQyYTctYjE2OC1jY2EyMzYyZWJjNTUmaW5zaWQ9NTE0NA&amp;ptn=3&amp;hsh=3&amp;fclid=cb91c6ec-fb6e-11ec-9cb6-20ebe3ab5fca&amp;u=a1aHR0cHM6Ly9zby5jc2RuLm5ldC9zby9zZWFyY2g_cT1LdWJlcm5ldGVz&amp;ntb=1] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\e88f25dfd13a4e76cbf1b98b526d680f.txt]
+7/4/2022 3:01:19 AM Fetching [https://www.simplilearn.com/tutorials/kubernetes-tutorial/kubernetes-interview-questions] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\0fe2f5bf6fbabaaf0923e42e51c24a29.txt]
+7/4/2022 3:01:21 AM e88f25dfd13a4e76cbf1b98b526d680f.txt: moved:3 http://www.msn.com/
+7/4/2022 3:01:21 AM Quantum finished, did work
+7/4/2022 3:01:31 AM Quantum started
+7/4/2022 3:01:31 AM Fetching [https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\faa8aa5b84523d65773e649db04c5aa8.txt]
+7/4/2022 3:01:32 AM Fetching [https://kubernetes.io/es/docs/concepts/overview/what-is-kubernetes/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\e64e6b4406ead16af3589fe0e1b7b2ed.txt]
+7/4/2022 3:01:33 AM e64e6b4406ead16af3589fe0e1b7b2ed.txt: error: Unsupported language [es]
+7/4/2022 3:01:33 AM Quantum finished, did work
+7/4/2022 3:01:43 AM Quantum started
+7/4/2022 3:01:43 AM Fetching [https://go.dev/dl/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\b6f82ec7d83fd5aae72317254753b551.txt]
+7/4/2022 3:01:50 AM Fetching [https://cloud.google.com/blog/products/containers-kubernetes/the-rise-and-future-of-kubernetes-and-open-source-at-google] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\f1e4ae958a9ff30e8036355a881d2d51.txt]
+7/4/2022 3:02:19 AM Quantum finished, did work
+7/4/2022 3:02:29 AM Quantum started
+7/4/2022 3:02:29 AM Fetching [https://www.geeksforgeeks.org/pointers-in-golang/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\86e49c4e082345fc78c768173480c921.txt]
+7/4/2022 3:02:30 AM Quantum finished, did work
+7/4/2022 3:02:40 AM Quantum started
+7/4/2022 3:02:40 AM Quantum finished, done.
+7/4/2022 3:02:50 AM Quantum started
+7/4/2022 3:02:50 AM Quantum finished, done.
+7/4/2022 3:03:00 AM Quantum started
+7/4/2022 3:03:00 AM Quantum finished, done.
+7/4/2022 3:03:10 AM Quantum started
+7/4/2022 3:03:11 AM Quantum finished, done.
+7/4/2022 3:03:21 AM Quantum started
+7/4/2022 3:03:21 AM Fetching [https://www.bing.com/ck/a?!&amp;&amp;p=4a7e08e07c982f06JmltdHM9MTY1NjkyMTM4MiZpZ3VpZD1hOGQyMGUzNi02NDFkLTQyYTctYjE2OC1jY2EyMzYyZWJjNTUmaW5zaWQ9NTE1OQ&amp;ptn=3&amp;hsh=3&amp;fclid=cb91d8e1-fb6e-11ec-98b5-ef3d7051b2d2&amp;u=a1aHR0cHM6Ly9rdWJlcm5ldGVzLmlvL3RyYWluaW5nLw&amp;ntb=1] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\9eee4e9cc5e1643d4e4c9f4e4f49f429.txt]
+7/4/2022 3:03:21 AM 9eee4e9cc5e1643d4e4c9f4e4f49f429.txt: moved:3 http://www.msn.com/
+7/4/2022 3:03:21 AM Quantum finished, did work
+7/4/2022 3:03:31 AM Quantum started
+7/4/2022 3:03:31 AM Fetching [https://docs.microsoft.com/en-us/azure/defender-for-cloud/defender-for-kubernetes-introduction] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\358e1f226d59f97040876442d166101b.txt]
+7/4/2022 3:03:33 AM Quantum finished, did work
+7/4/2022 3:03:43 AM Quantum started
+7/4/2022 3:03:43 AM Quantum finished, done.
+7/4/2022 3:03:53 AM Quantum started
+7/4/2022 3:03:53 AM Fetching [https://go.dev/learn/] to [C:\A\repo\Harvest_Distill_Learn\Q\go.dev site\#\cf99dc1b782db9bfa07613ffd9784892.txt]
+7/4/2022 3:03:53 AM Site Match for preitem:[https://go.dev/doc/install]
+7/4/2022 3:03:53 AM Site Match for preitem:[https://go.dev/doc/tutorial/getting-started]
+7/4/2022 3:03:53 AM Site Match for preitem:[https://go.dev/doc/tutorial/create-module]
+7/4/2022 3:03:53 AM Site Match for preitem:[https://go.dev/doc/tutorial/database-access]
+7/4/2022 3:03:53 AM Quantum finished, did work
+7/4/2022 3:04:03 AM Quantum started
+7/4/2022 3:04:03 AM Quantum finished, done.
+7/4/2022 3:04:13 AM Quantum started
+7/4/2022 3:04:13 AM Quantum finished, done.
+7/4/2022 3:04:23 AM Quantum started
+7/4/2022 3:04:23 AM Quantum finished, done.
+7/4/2022 3:04:33 AM Quantum started
+7/4/2022 3:04:33 AM Quantum finished, done.
+7/4/2022 3:04:43 AM Quantum started
+7/4/2022 3:04:43 AM Fetching [https://www.geeksforgeeks.org/golang-maps/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\0450d6e2d511632d66aac8efaa79a493.txt]
+7/4/2022 3:04:46 AM Quantum finished, did work
+7/4/2022 3:04:56 AM Quantum started
+7/4/2022 3:04:56 AM Quantum finished, done.
+7/4/2022 3:05:06 AM Quantum started
+7/4/2022 3:05:06 AM Fetching [https://go.dev/doc/] to [C:\A\repo\Harvest_Distill_Learn\Q\go.dev site\#\57bce607e33bf699695716dabd10508a.txt]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/tutorial/getting-started.html]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/tutorial/create-module.html]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/tutorial/workspaces.html]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/tutorial/web-service-gin.html]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/tutorial/generics.html]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/tutorial/fuzz.html]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/articles/wiki/]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/code.html]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/cmd/go/]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/effective_go.html]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/editors.html]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/diagnostics.html]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/modules/managing-dependencies]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/fuzz]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/database/index]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/database/open-handle]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/database/change-data]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/database/querying]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/database/prepared-statements]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/database/execute-transactions]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/database/cancel-operations]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/database/manage-connections]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/database/sql-injection]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/modules/developing]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/modules/release-workflow]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/modules/managing-source]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/modules/major-version]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/modules/publishing]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/modules/version-numbers]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/faq]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/cmd]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/ref/spec]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/ref/mod]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/modules/gomod-ref]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/ref/mem]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/contribute]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/devel/release.html]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/codewalk/functions]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/codewalk/markov]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/codewalk/sharemem]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/blog/json-rpc-tale-of-interfaces]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/blog/gos-declaration-syntax]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/blog/defer-panic-and-recover]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/blog/go-concurrency-patterns-timing-out-and]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/blog/go-slices-usage-and-internals]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/blog/gif-decoder-exercise-in-go-interfaces]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/blog/error-handling-and-go]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/blog/organizing-go-code]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/blog/json-and-go]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/pkg/encoding/json/]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/blog/gobs-of-data]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/pkg/encoding/gob/]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/blog/laws-of-reflection]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/pkg/reflect/]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/blog/go-image-package]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/pkg/image/]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/blog/go-imagedraw-package]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/pkg/image/draw/]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/blog/using-go-modules]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/blog/migrating-to-go-modules]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/blog/publishing-go-modules]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/blog/v2-go-modules]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/blog/module-compatibility]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/articles/go_command.html]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/comment]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/gdb]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/articles/race_detector.html]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/doc/asm]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/blog/c-go-cgo]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/cmd/cgo/]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/blog/profiling-go-programs]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/blog/race-detector]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/wiki]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/wiki/Learn]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/talks]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/wiki/GoTalks]
+7/4/2022 3:05:06 AM Site Match for preitem:[https://go.dev/wiki/NonEnglish]
+7/4/2022 3:05:06 AM Fetching [https://www.bing.com/ck/a?!&amp;&amp;p=e3c1ba8c079fcc3fJmltdHM9MTY1NjkyMTM4MiZpZ3VpZD1hOGQyMGUzNi02NDFkLTQyYTctYjE2OC1jY2EyMzYyZWJjNTUmaW5zaWQ9NTE3NQ&amp;ptn=3&amp;hsh=3&amp;fclid=cb91eafa-fb6e-11ec-a166-ae18234d147a&amp;u=a1aHR0cHM6Ly9rM3MuaW8v&amp;ntb=1] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\10f81973856ec670ee59eb6513a0b11f.txt]
+7/4/2022 3:05:07 AM 10f81973856ec670ee59eb6513a0b11f.txt: moved:3 http://www.msn.com/
+7/4/2022 3:05:07 AM Quantum finished, did work
+7/4/2022 3:05:17 AM Quantum started
+7/4/2022 3:05:17 AM Quantum finished, done.
+7/4/2022 3:05:27 AM Quantum started
+7/4/2022 3:05:27 AM Quantum finished, done.
+7/4/2022 3:05:37 AM Quantum started
+7/4/2022 3:05:37 AM Quantum finished, done.
+7/4/2022 3:05:47 AM Quantum started
+7/4/2022 3:05:47 AM Fetching [https://docs.microsoft.com/en-us/azure/aks/draft] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\525750f9876d7650f4a82c4e9e5ac7d4.txt]
+7/4/2022 3:05:48 AM Quantum finished, did work
+7/4/2022 3:05:58 AM Quantum started
+7/4/2022 3:05:58 AM Quantum finished, done.
+7/4/2022 3:06:08 AM Quantum started
+7/4/2022 3:06:08 AM Quantum finished, done.
+7/4/2022 3:06:18 AM Quantum started
+7/4/2022 3:06:18 AM Fetching [https://www.geeksforgeeks.org/golang/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\b636b68dad5cab09b16bc34b645797a0.txt]
+7/4/2022 3:06:19 AM Quantum finished, did work
+7/4/2022 3:06:29 AM Quantum started
+7/4/2022 3:06:29 AM Quantum finished, done.
+7/4/2022 3:06:39 AM Quantum started
+7/4/2022 3:06:39 AM Quantum finished, done.
+7/4/2022 3:06:49 AM Quantum started
+7/4/2022 3:06:49 AM Quantum finished, done.
+7/4/2022 3:06:59 AM Quantum started
+7/4/2022 3:06:59 AM Quantum finished, done.
+7/4/2022 3:07:09 AM Quantum started
+7/4/2022 3:07:09 AM Fetching [https://go.dev/play/] to [C:\A\repo\Harvest_Distill_Learn\Q\go.dev site\#\f111d2bd5850a64942c055321ff37a08.txt]
+7/4/2022 3:07:09 AM Site Match for preitem:[https://go.dev/cmd/vet/]
+7/4/2022 3:07:09 AM Site Match for preitem:[https://go.dev/pkg/testing]
+7/4/2022 3:07:09 AM Site Match for preitem:[https://go.dev/blog/playground]
+7/4/2022 3:07:09 AM Site Match for preitem:[https://go.dev/play/p/Ztyu2FJaajl]
+7/4/2022 3:07:09 AM Quantum finished, did work
+7/4/2022 3:07:19 AM Quantum started
+7/4/2022 3:07:19 AM Fetching [https://www.bing.com/ck/a?!&amp;&amp;p=4f5291f7a4d2a794JmltdHM9MTY1NjkyMTM4MiZpZ3VpZD1hOGQyMGUzNi02NDFkLTQyYTctYjE2OC1jY2EyMzYyZWJjNTUmaW5zaWQ9NTE5MQ&amp;ptn=3&amp;hsh=3&amp;fclid=cb91fb93-fb6e-11ec-8ee3-efd62f0b34f2&amp;u=a1aHR0cHM6Ly93d3cua3ViZWZsb3cub3JnLw&amp;ntb=1] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\b40251da2431a7f2bbef27e94e66a67e.txt]
+7/4/2022 3:07:20 AM b40251da2431a7f2bbef27e94e66a67e.txt: moved:3 http://www.msn.com/
+7/4/2022 3:07:20 AM Quantum finished, did work
+7/4/2022 3:07:30 AM Quantum started
+7/4/2022 3:07:30 AM Quantum finished, done.
+7/4/2022 3:07:40 AM Quantum started
+7/4/2022 3:07:40 AM Quantum finished, done.
+7/4/2022 3:07:50 AM Quantum started
+7/4/2022 3:07:50 AM Quantum finished, done.
+7/4/2022 3:08:00 AM Quantum started
+7/4/2022 3:08:00 AM Quantum finished, done.
+7/4/2022 3:08:10 AM Quantum started
+7/4/2022 3:08:10 AM Quantum finished, done.
+7/4/2022 3:08:20 AM Quantum started
+7/4/2022 3:08:20 AM Fetching [https://www.geeksforgeeks.org/golang-tutorial-learn-go-programming-language/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\75d03d32746498daeace07d4746f154b.txt]
+7/4/2022 3:08:23 AM Fetching [https://go.dev/blog/] to [C:\A\repo\Harvest_Distill_Learn\Q\go.dev site\#\68fb546a1f11234a6e935c6389d6f662.txt]
+7/4/2022 3:08:23 AM Site Match for preitem:[https://go.dev/blog/survey2022-q2]
+7/4/2022 3:08:23 AM Site Match for preitem:[https://go.dev/blog/survey2021-results]
+7/4/2022 3:08:23 AM Site Match for preitem:[https://go.dev/blog/when-generics]
+7/4/2022 3:08:23 AM Site Match for preitem:[https://go.dev/blog/get-familiar-with-workspaces]
+7/4/2022 3:08:23 AM Site Match for preitem:[https://go.dev/blog/supply-chain]
+7/4/2022 3:08:23 AM Site Match for preitem:[https://go.dev/blog/intro-generics]
+7/4/2022 3:08:23 AM Site Match for preitem:[https://go.dev/blog/go1.18]
+7/4/2022 3:08:23 AM Site Match for preitem:[https://go.dev/blog/go1.18beta2]
+7/4/2022 3:08:23 AM Site Match for preitem:[https://go.dev/blog/tutorials-go1.18]
+7/4/2022 3:08:23 AM Site Match for preitem:[https://go.dev/blog/go1.18beta1]
+7/4/2022 3:08:23 AM Site Match for preitem:[https://go.dev/blog/all]
+7/4/2022 3:08:23 AM Quantum finished, did work
+7/4/2022 3:08:33 AM Quantum started
+7/4/2022 3:08:33 AM Quantum finished, done.
+7/4/2022 3:08:43 AM Quantum started
+7/4/2022 3:08:43 AM Quantum finished, done.
+7/4/2022 3:08:53 AM Quantum started
+7/4/2022 3:08:53 AM Quantum finished, done.
+7/4/2022 3:09:03 AM Quantum started
+7/4/2022 3:09:03 AM Quantum finished, done.
+7/4/2022 3:09:13 AM Quantum started
+7/4/2022 3:09:13 AM Quantum finished, done.
+7/4/2022 3:09:23 AM Quantum started
+7/4/2022 3:09:23 AM Fetching [https://www.bing.com/ck/a?!&amp;&amp;p=f63de679327ae1bdJmltdHM9MTY1NjkyMTM4MiZpZ3VpZD1hOGQyMGUzNi02NDFkLTQyYTctYjE2OC1jY2EyMzYyZWJjNTUmaW5zaWQ9NTIwNw&amp;ptn=3&amp;hsh=3&amp;fclid=cb920dec-fb6e-11ec-8bd3-54c2ee69620b&amp;u=a1aHR0cHM6Ly9naXRodWIuY29tL2t1YmVybmV0ZXMvbWluaWt1YmU&amp;ntb=1] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\3e173c1ba6ae1bd84e1b38bcb23d89f9.txt]
+7/4/2022 3:09:23 AM 3e173c1ba6ae1bd84e1b38bcb23d89f9.txt: moved:3 http://www.msn.com/
+7/4/2022 3:09:23 AM Quantum finished, did work
+7/4/2022 3:09:33 AM Quantum started
+7/4/2022 3:09:33 AM Quantum finished, done.
+7/4/2022 3:09:43 AM Quantum started
+7/4/2022 3:09:44 AM Quantum finished, done.
+7/4/2022 3:09:54 AM Quantum started
+7/4/2022 3:09:54 AM Quantum finished, done.
+7/4/2022 3:10:04 AM Quantum started
+7/4/2022 3:10:04 AM Quantum finished, done.
+7/4/2022 3:10:14 AM Quantum started
+7/4/2022 3:10:14 AM Fetching [https://go.dev/dl] to [C:\A\repo\Harvest_Distill_Learn\Q\go.dev site\#\f346578bf9fab4414b36f0c117bad2a0.txt]
+7/4/2022 3:10:18 AM f346578bf9fab4414b36f0c117bad2a0.txt: moved:2 https://go.dev/dl/
+7/4/2022 3:10:18 AM Quantum finished, did work
+7/4/2022 3:10:28 AM Quantum started
+7/4/2022 3:10:28 AM Quantum finished, done.
+7/4/2022 3:10:38 AM Quantum started
+7/4/2022 3:10:38 AM Fetching [https://www.geeksforgeeks.org/introduction-to-kubernetes-k8s/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\28a5fd764e656fd52b24c4e890a91bfb.txt]
+7/4/2022 3:10:47 AM Quantum finished, did work
+7/4/2022 3:10:57 AM Quantum started
+7/4/2022 3:10:57 AM Quantum finished, done.
+7/4/2022 3:11:07 AM Quantum started
+7/4/2022 3:11:07 AM Quantum finished, done.
+7/4/2022 3:11:17 AM Quantum started
+7/4/2022 3:11:17 AM Quantum finished, done.
+7/4/2022 3:11:27 AM Quantum started
+7/4/2022 3:11:27 AM Quantum finished, done.
+7/4/2022 3:11:37 AM Quantum started
+7/4/2022 3:11:37 AM Quantum finished, done.
+7/4/2022 3:11:47 AM Quantum started
+7/4/2022 3:11:47 AM Fetching [https://www.bing.com/ck/a?!&amp;&amp;p=924349a9e7a69ea0JmltdHM9MTY1NjkyMTM4MiZpZ3VpZD1hOGQyMGUzNi02NDFkLTQyYTctYjE2OC1jY2EyMzYyZWJjNTUmaW5zaWQ9NTIyMw&amp;ptn=3&amp;hsh=3&amp;fclid=cb9221f2-fb6e-11ec-a3d3-4ff2146807fb&amp;u=a1aHR0cHM6Ly9sYWJzLnBsYXktd2l0aC1rOHMuY29tLw&amp;ntb=1] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\1bae5d0ebc2b1d096acc7639bb93c0ca.txt]
+7/4/2022 3:11:47 AM 1bae5d0ebc2b1d096acc7639bb93c0ca.txt: moved:3 http://www.msn.com/
+7/4/2022 3:11:47 AM Quantum finished, did work
+7/4/2022 3:11:57 AM Quantum started
+7/4/2022 3:11:58 AM Quantum finished, done.
+7/4/2022 3:12:08 AM Quantum started
+7/4/2022 3:12:08 AM Fetching [https://www.geeksforgeeks.org/kubernetes-concept-of-containers/] to [C:\A\repo\Harvest_Distill_Learn\Q\Go K8s\#\2e254e97fc7dfb7c06f88e088f60077c.txt]
+7/4/2022 3:12:10 AM Quantum finished, did work
+7/4/2022 3:12:20 AM Quantum started
+7/4/2022 3:12:20 AM Quantum finished, done.
+7/4/2022 3:12:30 AM Quantum started
+7/4/2022 3:12:30 AM Quantum finished, done.
+7/4/2022 3:12:40 AM Quantum started
+7/4/2022 3:12:40 AM Fetching [https://go.dev/dl/] to [C:\A\repo\Harvest_Distill_Learn\Q\go.dev site\#\b6f82ec7d83fd5aae72317254753b551.txt]
+7/4/2022 3:13:23 AM Site Match for preitem:[https://go.dev/doc/install/source]
+7/4/2022 3:13:23 AM Site Match for preitem:[https://go.dev/dl/go1.18.3.windows-amd64.msi]
+7/4/2022 3:13:23 AM Site Match for preitem:[https://go.dev/dl/go1.18.3.darwin-arm64.pkg]
+7/4/2022 3:13:23 AM Site Match for preitem:[https://go.dev/dl/go1.18.3.darwin-amd64.pkg]
+7/4/2022 3:13:23 AM Site Match for preitem:[https://go.dev/dl/go1.18.3.linux-amd64.tar.gz]
+7/4/2022 3:13:23 AM Site Match for preitem:[https://go.dev/dl/go1.18.3.src.tar.gz]
+7/4/2022 3:13:23 AM Site Match for preitem:[https://go.dev/dl/go1.18.3.darwin-amd64.tar.gz]
+7/4/2022 3:13:23 AM Site Match for preitem:[https://go.dev/dl/go1.18.3.darwin-arm64.tar.gz]
+7/4/2022 3:13:23 AM Site Match for preitem:[https://go.dev/dl/go1.18.3.linux-386.tar.gz]
+7/4/2022 3:13:23 AM Site Match for preitem:[https://go.dev/dl/go1.18.3.linux-arm64.tar.gz]
+...

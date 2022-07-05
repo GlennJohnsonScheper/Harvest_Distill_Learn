@@ -1,0 +1,801 @@
+0000005 in Form1 ctor 7/4/2022 1:05:32 AM
+0000008 ex Form1 ctor
+0000021 in Form1_Load
+0000023    in Form1_Resize
+0000023    ex Form1_Resize
+0000025    in Form1_SizeChanged
+0000025    ex Form1_SizeChanged
+0000025 ex Form1_Load
+0000057 in Form1_GotFocus
+0000057 ex Form1_GotFocus
+0000059 in Form1_Activate
+0000059 ex Form1_Activate
+0000065 in Form1_Shown
+0000065    in Mutex is not required here, it is already owned
+0000066       in CommonTo_ShownOr_SizeChanged
+0000077          in Mutex
+0000078             in DiscardBacking
+0000078             ex DiscardBacking
+0000079             in CreateBacking
+0000081             ex CreateBacking
+0000081             stable=T
+0000081          ex Mutex
+0000081       ex CommonTo_ShownOr_SizeChanged
+0000083       in SetFontAndComputeCharWidthsAndSpeed
+0000083          in Mutex
+0000084             myIntegerFontHeight = 38
+0000085             in RecomputeCharWidths
+0000269             ex RecomputeCharWidths
+0000269          ex Mutex
+0000269       ex SetFontAndComputeCharWidthsAndSpeed
+0000274       in MakeRawTextIntoCookedText
+0000274       ex MakeRawTextIntoCookedText
+0000277       in MakeCookedTextIntoWrappedLineArray
+0000277          in Mutex
+0000277          ex Mutex
+0000278          OutList.Count = 11
+0000278       ex MakeCookedTextIntoWrappedLineArray
+0000278    ex Mutex
+0000278 ex Form1_Shown
+0000282 in \-\-\- hotPaintWorker (A THREAD)
+0000292    !-paint +283:0-10/11@3-383+38/552
+0011703    in Form1_KeyDown 20011
+0011703    ex Form1_KeyDown
+0011969    in Form1_KeyDown 2004f
+0011969       control O key
+0011971       in Form1_LostFocus
+0011971          in Mutex
+0011972          ex Mutex
+0011972       ex Form1_LostFocus
+0011974       !-paint +11689:0-10/11@3-383+38/552
+0012586       in Form1_KeyPress
+0012587       ex Form1_KeyPress
+0053140       in Form1_Activate
+0053140       ex Form1_Activate
+0053142       in Form1_GotFocus
+0053142          in Mutex
+0053143          ex Mutex
+0053143       ex Form1_GotFocus
+0053145       !-paint +41171:0-10/11@3-383+38/552
+0053260       in MakeRawTextIntoCookedText
+0053300       ex MakeRawTextIntoCookedText
+0053300       in MakeCookedTextIntoWrappedLineArray
+0053300          in Mutex
+0053300          ex Mutex
+0053300          !-empty
+0053314          OutList.Count = 4182
+0053314       ex MakeCookedTextIntoWrappedLineArray
+0053314    ex Form1_KeyDown
+0053616    !-paint +311:0-14/4182@3-535+38/552
+0061318    in Form1_KeyDown 22
+0061318       PAGE DOWN key
+0061318    ex Form1_KeyDown
+0061321    !-paint +7707:12-27/4182@-55-515+38/552
+0061362    in Form1_KeyUp 22
+0061362    ex Form1_KeyUp
+0063779    in Form1_KeyDown 28
+0063779       DOWN key = STOP SCROLLING, and MINIMIZE
+0063781       in Form1_LostFocus
+0063781          in Mutex
+0063782          ex Mutex
+0063782       ex Form1_LostFocus
+0063785       in Form1_Resize
+0063785          !-paint +2464:12-27/4182@-55-515+38/0
+0063786          in Mutex
+0063786             stable=F(resize)
+0063786          ex Mutex
+0063786       ex Form1_Resize
+0063786       in Form1_SizeChanged
+0063786          in CommonTo_ShownOr_SizeChanged
+0063786             in Mutex
+0063786                in DiscardBacking
+0063786                ex DiscardBacking
+0063786                in CreateBacking
+0063787                ex CreateBacking
+0063787                stable=F(minimized)
+0063787             ex Mutex
+0063787          ex CommonTo_ShownOr_SizeChanged
+0063787          Old ScrolledToScanLine = 514
+0063787          in MakeCookedTextIntoWrappedLineArray
+0063787             in Mutex
+0063787             ex Mutex
+0063788             !-unstable
+0063818             OutList.Count = 108755
+0063818          ex MakeCookedTextIntoWrappedLineArray
+0063818          New ScrolledToScanLine = 14782
+0063818       ex Form1_SizeChanged
+0063823    ex Form1_KeyDown
+0064095    !-unstable
+0064408    !-unstable
+0064720    !-unstable
+0064962    in Form1_Activate
+0064962    ex Form1_Activate
+0064980    in Form1_Resize
+0064980       in Mutex
+0064980          stable=F(resize)
+0064980       ex Mutex
+0064980    ex Form1_Resize
+0064980    in Form1_SizeChanged
+0064980       in CommonTo_ShownOr_SizeChanged
+0064980          in Mutex
+0064980             in DiscardBacking
+0064980             ex DiscardBacking
+0064980             in CreateBacking
+0064981             ex CreateBacking
+0064981             stable=T
+0064981          ex Mutex
+0064981       ex CommonTo_ShownOr_SizeChanged
+0064981       Old ScrolledToScanLine = 14782
+0064981       in MakeCookedTextIntoWrappedLineArray
+0064981          in Mutex
+0064981          ex Mutex
+0064998          OutList.Count = 4182
+0064998       ex MakeCookedTextIntoWrappedLineArray
+0064998       New ScrolledToScanLine = 570
+0064998    ex Form1_SizeChanged
+0064999    in Form1_GotFocus
+0064999       in Mutex
+0065001       ex Mutex
+0065001    ex Form1_GotFocus
+0065002    in Form1_KeyUp 09
+0065002    ex Form1_KeyUp
+0065036    !-paint +1251:13-29/4182@-73-535+38/552
+0065600    in Form1_KeyDown 27
+0065600       Arrow Right (faster)
+0065600       myLinesPerSec = 0.62
+0065600       myMsPerScanline = 43
+0065600    ex Form1_KeyDown
+0065602    !-paint +567:13-29/4182@-73-535+38/552
+0065709    in Form1_KeyUp 27
+0065709    ex Form1_KeyUp
+0076373    in Form1_KeyDown 27
+0076373       Arrow Right (faster)
+0076373       myLinesPerSec = 0.76
+0076373       myMsPerScanline = 35
+0076373    ex Form1_KeyDown
+0076375    !-paint +10773:13-29/4182@-73-535+38/552
+0076625    in Form1_KeyUp 27
+0076625    ex Form1_KeyUp
+0078324    in Form1_KeyDown 26
+0078324       UP key = START/RESUME SCROLLING
+0078324       myMsPerScanline = 53
+0078324    ex Form1_KeyDown
+0078326    !-paint +1951:13-29/4182@-74-534+38/552
+0078441    in Form1_KeyUp 26
+0078441    ex Form1_KeyUp
+0078484    !-paint +53:14-29/4182@-39-531+38/552
+0080357    in Form1_KeyDown 27
+0080357       Arrow Right (faster)
+0080357       myLinesPerSec = 0.62
+0080357       myMsPerScanline = 43
+0080357    ex Form1_KeyDown
+0080359    !-paint +19:14-30/4182@-74-534+38/552
+0080466    in Form1_KeyUp 27
+0080466    ex Form1_KeyUp
+0080488    !-paint +43:15-30/4182@-39-531+38/552
+0080599    in Form1_KeyDown 27
+0080599       Arrow Right (faster)
+0080599       myLinesPerSec = 0.76
+0080599       myMsPerScanline = 35
+0080599    ex Form1_KeyDown
+0080601    !-paint +27:15-30/4182@-41-529+38/552
+0080673    in Form1_KeyUp 27
+0080673    ex Form1_KeyUp
+0080706    !-paint +35:15-30/4182@-44-526+38/552
+0080820    in Form1_KeyDown 27
+0080820       Arrow Right (faster)
+0080820       myLinesPerSec = 0.93
+0080820       myMsPerScanline = 28
+0080820    ex Form1_KeyDown
+0080822    !-paint +11:15-30/4182@-47-523+38/552
+0080932    in Form1_KeyUp 27
+0080932    ex Form1_KeyUp
+0080934    !-paint +28:15-30/4182@-51-519+38/552
+0084932    in Form1_KeyDown 27
+0084932       Arrow Right (faster)
+0084932       myLinesPerSec = 1.14
+0084932       myMsPerScanline = 23
+0084932    ex Form1_KeyDown
+0084934    !-paint +24:19-34/4182@-42-528+38/552
+0084986    in Form1_KeyUp 27
+0084986    ex Form1_KeyUp
+0085003    !-paint +23:19-34/4182@-45-525+38/552
+0085133    in Form1_KeyDown 27
+0085133       Arrow Right (faster)
+0085133       myLinesPerSec = 1.41
+0085133       myMsPerScanline = 19
+0085133    ex Form1_KeyDown
+0085135    !-paint +17:19-34/4182@-50-520+38/552
+0085265    in Form1_KeyUp 27
+0085265    ex Form1_KeyUp
+0085268    !-paint +19:19-35/4182@-57-551+38/552
+0085691    in Form1_KeyDown 27
+0085691       Arrow Right (faster)
+0085691       myLinesPerSec = 1.73
+0085691       myMsPerScanline = 15
+0085691    ex Form1_KeyDown
+0085693    !-paint +7:20-35/4182@-41-529+38/552
+0085755    in Form1_KeyUp 27
+0085755    ex Form1_KeyUp
+0085768    !-paint +15:20-35/4182@-46-524+38/552
+0095675    in Form1_KeyDown 25
+0095675       Arrow Left (slower)
+0095675       myLinesPerSec = 1.41
+0095675       myMsPerScanline = 19
+0095675    ex Form1_KeyDown
+0095678    !-paint +9:37-53/4182@-60-548+38/552
+0095721    in Form1_KeyUp 25
+0095721    ex Form1_KeyUp
+0095734    !-paint +19:37-53/4182@-63-545+38/552
+0095847    in Form1_KeyDown 25
+0095847       Arrow Left (slower)
+0095847       myLinesPerSec = 1.14
+0095847       myMsPerScanline = 23
+0095847    ex Form1_KeyDown
+0095848    !-paint +19:37-53/4182@-69-539+38/552
+0095919    in Form1_KeyUp 25
+0095919    ex Form1_KeyUp
+0095921    !-paint +23:37-53/4182@-72-536+38/552
+0096076    in Form1_KeyDown 25
+0096076       Arrow Left (slower)
+0096076       myLinesPerSec = 0.93
+0096076       myMsPerScanline = 28
+0096076    ex Form1_KeyDown
+0096078    !-paint +20:38-53/4182@-40-530+38/552
+0096177    in Form1_KeyUp 25
+0096177    ex Form1_KeyUp
+0096190    !-paint +28:38-53/4182@-44-526+38/552
+0099813    in Form1_KeyDown 25
+0099813       Arrow Left (slower)
+0099813       myLinesPerSec = 0.76
+0099813       myMsPerScanline = 35
+0099813    ex Form1_KeyDown
+0099816    !-paint +13:41-57/4182@-59-549+38/552
+0099915    in Form1_KeyUp 25
+0099915    ex Form1_KeyUp
+0099921    !-paint +35:41-57/4182@-62-546+38/552
+0100060    in Form1_KeyDown 25
+0100060       Arrow Left (slower)
+0100060       myLinesPerSec = 0.62
+0100060       myMsPerScanline = 43
+0100060    ex Form1_KeyDown
+0100063    !-paint +3:41-57/4182@-66-542+38/552
+0100121    in Form1_KeyUp 25
+0100121    ex Form1_KeyUp
+0100149    !-paint +43:41-57/4182@-68-540+38/552
+0100259    in Form1_KeyDown 25
+0100259       Arrow Left (slower)
+0100259       myLinesPerSec = 0.50
+0100259       myMsPerScanline = 53
+0100259    ex Form1_KeyDown
+0100261    !-paint +26:41-57/4182@-70-538+38/552
+0100324    in Form1_KeyUp 25
+0100324    ex Form1_KeyUp
+0100367    !-paint +53:41-57/4182@-72-536+38/552
+0117059    in Form1_KeyDown 27
+0117059       Arrow Right (faster)
+0117059       myLinesPerSec = 0.62
+0117059       myMsPerScanline = 43
+0117059    ex Form1_KeyDown
+0117062    !-paint +52:50-65/4182@-45-525+38/552
+0117148    in Form1_KeyUp 27
+0117148    ex Form1_KeyUp
+0117190    !-paint +43:50-65/4182@-48-522+38/552
+0117240    in Form1_KeyDown 27
+0117240       Arrow Right (faster)
+0117240       myLinesPerSec = 0.76
+0117240       myMsPerScanline = 35
+0117240    ex Form1_KeyDown
+0117242    !-paint +9:50-65/4182@-49-521+38/552
+0117315    in Form1_KeyUp 27
+0117315    ex Form1_KeyUp
+0117347    !-paint +35:50-65/4182@-52-518+38/552
+0117415    in Form1_KeyDown 27
+0117415       Arrow Right (faster)
+0117415       myLinesPerSec = 0.93
+0117415       myMsPerScanline = 28
+0117415    ex Form1_KeyDown
+0117417    !-paint +35:50-65/4182@-54-516+38/552
+0117487    in Form1_KeyUp 27
+0117487    ex Form1_KeyUp
+0117503    !-paint +28:50-66/4182@-57-551+38/552
+0117594    in Form1_KeyDown 27
+0117594       Arrow Right (faster)
+0117594       myLinesPerSec = 1.14
+0117594       myMsPerScanline = 23
+0117594    ex Form1_KeyDown
+0117596    !-paint +9:50-66/4182@-60-548+38/552
+0117681    in Form1_KeyUp 27
+0117681    ex Form1_KeyUp
+0117688    !-paint +23:50-66/4182@-64-544+38/552
+0117795    in Form1_KeyDown 27
+0117795       Arrow Right (faster)
+0117795       myLinesPerSec = 1.41
+0117795       myMsPerScanline = 19
+0117795    ex Form1_KeyDown
+0117798    !-paint +17:50-66/4182@-68-540+38/552
+0117958    in Form1_KeyUp 27
+0117958    ex Form1_KeyUp
+0117968    !-paint +19:51-66/4182@-39-531+38/552
+0117996    in Form1_KeyDown 27
+0117996       Arrow Right (faster)
+0117996       myLinesPerSec = 1.73
+0117996       myMsPerScanline = 15
+0117996    ex Form1_KeyDown
+0117999    !-paint +11:51-66/4182@-40-530+38/552
+0118083    in Form1_KeyUp 27
+0118083    ex Form1_KeyUp
+0118088    !-paint +15:51-66/4182@-46-524+38/552
+0123852    in Form1_KeyDown 25
+0123852       Arrow Left (slower)
+0123853       myLinesPerSec = 1.41
+0123853       myMsPerScanline = 19
+0123853    ex Form1_KeyDown
+0123855    !-paint +7:61-76/4182@-50-520+38/552
+0123900    in Form1_KeyUp 25
+0123900    ex Form1_KeyUp
+0123912    !-paint +19:61-76/4182@-53-517+38/552
+0124065    in Form1_KeyDown 25
+0124065       Arrow Left (slower)
+0124065       myLinesPerSec = 1.14
+0124065       myMsPerScanline = 23
+0124065    ex Form1_KeyDown
+0124067    !-paint +3:61-77/4182@-61-547+38/552
+0124109    in Form1_KeyUp 25
+0124109    ex Form1_KeyUp
+0124113    !-paint +23:61-77/4182@-63-545+38/552
+0124244    in Form1_KeyDown 25
+0124244       Arrow Left (slower)
+0124244       myLinesPerSec = 0.93
+0124244       myMsPerScanline = 28
+0124244    ex Form1_KeyDown
+0124246    !-paint +18:61-77/4182@-68-540+38/552
+0124307    in Form1_KeyUp 25
+0124307    ex Form1_KeyUp
+0124330    !-paint +28:61-77/4182@-71-537+38/552
+0126499    in Form1_KeyDown 27
+0126499       Arrow Right (faster)
+0126499       myLinesPerSec = 1.14
+0126499       myMsPerScanline = 23
+0126499    ex Form1_KeyDown
+0126502    !-paint +15:63-79/4182@-72-536+38/552
+0126580    in Form1_KeyUp 27
+0126580    ex Form1_KeyUp
+0126593    !-paint +23:63-79/4182@-76-532+38/552
+0129875    in Form1_KeyDown 27
+0129875       Arrow Right (faster)
+0129875       myLinesPerSec = 1.41
+0129875       myMsPerScanline = 19
+0129875    ex Form1_KeyDown
+0129877    !-paint +18:67-83/4182@-66-542+38/552
+0129927    in Form1_KeyUp 27
+0129927    ex Form1_KeyUp
+0129934    !-paint +19:67-83/4182@-69-539+38/552
+0130042    in Form1_KeyDown 27
+0130042       Arrow Right (faster)
+0130042       myLinesPerSec = 1.73
+0130042       myMsPerScanline = 15
+0130042    ex Form1_KeyDown
+0130045    !-paint +15:67-83/4182@-75-533+38/552
+0130150    in Form1_KeyUp 27
+0130150    ex Form1_KeyUp
+0130164    !-paint +15:68-83/4182@-45-525+38/552
+0132899    in Form1_KeyDown 25
+0132899       Arrow Left (slower)
+0132899       myLinesPerSec = 1.41
+0132899       myMsPerScanline = 19
+0132899    ex Form1_KeyDown
+0132902    !-paint +7:72-88/4182@-75-533+38/552
+0132932    in Form1_KeyUp 25
+0132932    ex Form1_KeyUp
+0132939    !-paint +19:73-88/4182@-39-531+38/552
+0133071    in Form1_KeyDown 25
+0133071       Arrow Left (slower)
+0133071       myLinesPerSec = 1.14
+0133071       myMsPerScanline = 23
+0133071    ex Form1_KeyDown
+0133072    !-paint +19:73-88/4182@-46-524+38/552
+0133132    in Form1_KeyUp 25
+0133132    ex Form1_KeyUp
+0133144    !-paint +23:73-88/4182@-49-521+38/552
+0133288    in Form1_KeyDown 25
+0133288       Arrow Left (slower)
+0133288       myLinesPerSec = 0.93
+0133288       myMsPerScanline = 28
+0133288    ex Form1_KeyDown
+0133291    !-paint +8:73-88/4182@-55-515+38/552
+0133350    in Form1_KeyUp 25
+0133350    ex Form1_KeyUp
+0133374    !-paint +28:73-89/4182@-58-550+38/552
+0138639    in Form1_KeyDown 25
+0138639       Arrow Left (slower)
+0138639       myLinesPerSec = 0.76
+0138639       myMsPerScanline = 35
+0138639    ex Form1_KeyDown
+0138641    !-paint +3:78-93/4182@-56-514+38/552
+0138677    in Form1_KeyUp 25
+0138677    ex Form1_KeyUp
+0138711    !-paint +35:78-94/4182@-58-550+38/552
+0138813    in Form1_KeyDown 25
+0138813       Arrow Left (slower)
+0138813       myLinesPerSec = 0.62
+0138813       myMsPerScanline = 43
+0138813    ex Form1_KeyDown
+0138816    !-paint +34:78-94/4182@-60-548+38/552
+0138871    in Form1_KeyUp 25
+0138871    ex Form1_KeyUp
+0138901    !-paint +43:78-94/4182@-62-546+38/552
+0139005    in Form1_KeyDown 25
+0139005       Arrow Left (slower)
+0139005       myLinesPerSec = 0.50
+0139005       myMsPerScanline = 53
+0139005    ex Form1_KeyDown
+0139007    !-paint +20:78-94/4182@-64-544+38/552
+0139067    in Form1_KeyUp 25
+0139067    ex Form1_KeyUp
+0139113    !-paint +53:78-94/4182@-66-542+38/552
+0139179    in Form1_KeyDown 25
+0139179       Arrow Left (slower)
+0139179       myLinesPerSec = 0.41
+0139179       myMsPerScanline = 65
+0139179    ex Form1_KeyDown
+0139182    !-paint +15:78-94/4182@-67-541+38/552
+0139243    in Form1_KeyUp 25
+0139243    ex Form1_KeyUp
+0139246    !-paint +65:78-94/4182@-68-540+38/552
+0139356    in Form1_KeyDown 25
+0139356       Arrow Left (slower)
+0139356       myLinesPerSec = 0.33
+0139356       myMsPerScanline = 80
+0139356    ex Form1_KeyDown
+0139359    !-paint +47:78-94/4182@-69-539+38/552
+0139472    in Form1_KeyUp 25
+0139472    ex Form1_KeyUp
+0139518    !-paint +80:78-94/4182@-71-537+38/552
+0154614    in Form1_KeyDown 27
+0154614       Arrow Right (faster)
+0154614       myLinesPerSec = 0.41
+0154614       myMsPerScanline = 65
+0154614    ex Form1_KeyDown
+0154616    !-paint +58:83-99/4182@-69-539+38/552
+0154694    in Form1_KeyUp 27
+0154694    ex Form1_KeyUp
+0154746    !-paint +65:83-99/4182@-71-537+38/552
+0154843    in Form1_KeyDown 27
+0154843       Arrow Right (faster)
+0154843       myLinesPerSec = 0.50
+0154843       myMsPerScanline = 53
+0154843    ex Form1_KeyDown
+0154846    !-paint +34:83-99/4182@-72-536+38/552
+0154915    in Form1_KeyUp 27
+0154915    ex Form1_KeyUp
+0154951    !-paint +53:83-99/4182@-74-534+38/552
+0155046    in Form1_KeyDown 27
+0155046       Arrow Right (faster)
+0155046       myLinesPerSec = 0.62
+0155046       myMsPerScanline = 43
+0155046    ex Form1_KeyDown
+0155049    !-paint +44:83-99/4182@-76-532+38/552
+0155100    in Form1_KeyUp 27
+0155100    ex Form1_KeyUp
+0155134    !-paint +43:84-99/4182@-40-530+38/552
+0155228    in Form1_KeyDown 27
+0155228       Arrow Right (faster)
+0155228       myLinesPerSec = 0.76
+0155228       myMsPerScanline = 35
+0155228    ex Form1_KeyDown
+0155231    !-paint +10:84-99/4182@-42-528+38/552
+0155278    in Form1_KeyUp 27
+0155278    ex Form1_KeyUp
+0155300    !-paint +35:84-99/4182@-44-526+38/552
+0155427    in Form1_KeyDown 27
+0155427       Arrow Right (faster)
+0155427       myLinesPerSec = 0.93
+0155427       myMsPerScanline = 28
+0155427    ex Form1_KeyDown
+0155429    !-paint +24:84-99/4182@-47-523+38/552
+0155502    in Form1_KeyUp 27
+0155502    ex Form1_KeyUp
+0155513    !-paint +28:84-99/4182@-50-520+38/552
+0155640    in Form1_KeyDown 27
+0155640       Arrow Right (faster)
+0155640       myLinesPerSec = 1.14
+0155640       myMsPerScanline = 23
+0155640    ex Form1_KeyDown
+0155642    !-paint +17:84-99/4182@-54-516+38/552
+0155752    in Form1_KeyUp 27
+0155752    ex Form1_KeyUp
+0155757    !-paint +23:84-100/4182@-59-549+38/552
+0155881    in Form1_KeyDown 27
+0155881       Arrow Right (faster)
+0155881       myLinesPerSec = 1.41
+0155881       myMsPerScanline = 19
+0155881    ex Form1_KeyDown
+0155884    !-paint +11:84-100/4182@-64-544+38/552
+0155990    in Form1_KeyUp 27
+0155990    ex Form1_KeyUp
+0155997    !-paint +19:84-100/4182@-70-538+38/552
+0156160    in Form1_KeyDown 27
+0156160       Arrow Right (faster)
+0156160       myLinesPerSec = 1.73
+0156160       myMsPerScanline = 15
+0156160    ex Form1_KeyDown
+0156162    !-paint +13:85-100/4182@-40-530+38/552
+0156329    in Form1_KeyUp 27
+0156329    ex Form1_KeyUp
+0156342    !-paint +15:85-100/4182@-52-518+38/552
+0158024    in Form1_KeyDown 27
+0158024       Arrow Right (faster)
+0158024       myLinesPerSec = 2.13
+0158024       myMsPerScanline = 12
+0158024    ex Form1_KeyDown
+0158026    !-paint +4:88-103/4182@-50-520+38/552
+0158121    in Form1_KeyUp 27
+0158121    ex Form1_KeyUp
+0158123    !-paint +12:88-104/4182@-58-550+38/552
+0165026    in Form1_KeyDown 25
+0165026       Arrow Left (slower)
+0165026       myLinesPerSec = 1.73
+0165026       myMsPerScanline = 15
+0165026    ex Form1_KeyDown
+0165029    !-paint +6:103-119/4182@-63-545+38/552
+0165088    in Form1_KeyUp 25
+0165088    ex Form1_KeyUp
+0165088    !-paint +15:103-119/4182@-67-541+38/552
+0165201    in Form1_KeyDown 25
+0165201       Arrow Left (slower)
+0165201       myLinesPerSec = 1.41
+0165201       myMsPerScanline = 19
+0165201    ex Form1_KeyDown
+0165204    !-paint +10:103-119/4182@-74-534+38/552
+0165294    in Form1_KeyUp 25
+0165294    ex Form1_KeyUp
+0165298    !-paint +19:104-119/4182@-41-529+38/552
+0165376    in Form1_KeyDown 25
+0165376       Arrow Left (slower)
+0165376       myLinesPerSec = 1.14
+0165376       myMsPerScanline = 23
+0165376    ex Form1_KeyDown
+0165379    !-paint +4:104-119/4182@-45-525+38/552
+0165492    in Form1_KeyUp 25
+0165492    ex Form1_KeyUp
+0165493    !-paint +23:104-119/4182@-50-520+38/552
+0165575    in Form1_KeyDown 25
+0165575       Arrow Left (slower)
+0165575       myLinesPerSec = 0.93
+0165575       myMsPerScanline = 28
+0165575    ex Form1_KeyDown
+0165577    !-paint +15:104-119/4182@-53-517+38/552
+0165703    in Form1_KeyUp 25
+0165703    ex Form1_KeyUp
+0165717    !-paint +28:104-120/4182@-58-550+38/552
+0166625    in Form1_KeyDown 25
+0166625       Arrow Left (slower)
+0166625       myLinesPerSec = 0.76
+0166625       myMsPerScanline = 35
+0166625    ex Form1_KeyDown
+0166628    !-paint +14:105-120/4182@-52-518+38/552
+0166702    in Form1_KeyUp 25
+0166702    ex Form1_KeyUp
+0166732    !-paint +35:105-120/4182@-55-515+38/552
+0166820    in Form1_KeyDown 25
+0166820       Arrow Left (slower)
+0166820       myLinesPerSec = 0.62
+0166820       myMsPerScanline = 43
+0166820    ex Form1_KeyDown
+0166823    !-paint +20:105-121/4182@-57-551+38/552
+0166878    in Form1_KeyUp 25
+0166878    ex Form1_KeyUp
+0166908    !-paint +43:105-121/4182@-59-549+38/552
+0185485    in Form1_KeyDown 22
+0185485       PAGE DOWN key
+0185485    ex Form1_KeyDown
+0185488    !-paint +4:130-145/4182@-55-515+38/552
+0185541    in Form1_KeyUp 22
+0185541    ex Form1_KeyUp
+0185574    !-paint +43:130-146/4182@-57-551+38/552
+0187084    in Form1_KeyDown 22
+0187084       PAGE DOWN key
+0187084    ex Form1_KeyDown
+0187087    !-paint +7:144-160/4182@-74-534+38/552
+0187110    in Form1_KeyUp 22
+0187110    ex Form1_KeyUp
+0187129    !-paint +43:144-160/4182@-75-533+38/552
+0187408    in Form1_KeyDown 22
+0187408       PAGE DOWN key
+0187408    ex Form1_KeyDown
+0187410    !-paint +23:158-174/4182@-63-545+38/552
+0187466    in Form1_KeyUp 22
+0187466    ex Form1_KeyUp
+0187496    !-paint +43:158-174/4182@-65-543+38/552
+0187743    in Form1_KeyDown 22
+0187743       PAGE DOWN key
+0187743    ex Form1_KeyDown
+0187745    !-paint +34:172-187/4182@-52-518+38/552
+0187779    in Form1_KeyUp 22
+0187779    ex Form1_KeyUp
+0187788    !-paint +43:172-187/4182@-53-517+38/552
+0190779    in Form1_KeyDown 20011
+0190779    ex Form1_KeyDown
+0191130    in Form1_KeyDown 20052
+0191130       control R key
+0191132       in FindCommand
+0191133       ex FindCommand
+0191133    ex Form1_KeyDown
+0191133    in Form1_KeyPress
+0191133    ex Form1_KeyPress
+0191136    !-paint +35:0-14/4182@3-535+38/552
+0191191    in Form1_KeyUp 20052
+0191191    ex Form1_KeyUp
+0191221    !-paint +43:0-14/4182@1-533+38/552
+0195477    in Form1_KeyDown 20046
+0195477       control F key
+0195477       in FindCommand
+0195478       ex FindCommand
+0195478    ex Form1_KeyDown
+0195478    in Form1_KeyPress
+0195478    ex Form1_KeyPress
+0195478    !-paint +43:1-17/4182@-60-548+38/552
+0195608    in Form1_KeyUp 20046
+0195608    ex Form1_KeyUp
+0195609    !-paint +43:309-324/4182@-44-526+38/552
+0198586    in Form1_KeyUp 11
+0198586    ex Form1_KeyUp
+0198619    !-paint +43:310-326/4182@-76-532+38/552
+0201687    in Form1_KeyDown 22
+0201687       PAGE DOWN key
+0201687    ex Form1_KeyDown
+0201688    !-paint +17:326-341/4182@-53-517+38/552
+0201825    in Form1_KeyUp 22
+0201825    ex Form1_KeyUp
+0201860    !-paint +43:326-342/4182@-57-551+38/552
+0203148    in Form1_KeyDown 22
+0203148       PAGE DOWN key
+0203148    ex Form1_KeyDown
+0203149    !-paint +42:340-356/4182@-68-540+38/552
+0203239    in Form1_KeyUp 22
+0203239    ex Form1_KeyUp
+0203278    !-paint +43:340-356/4182@-71-537+38/552
+0203667    in Form1_KeyDown 22
+0203667       PAGE DOWN key
+0203667    ex Form1_KeyDown
+0203668    !-paint +3:354-370/4182@-62-546+38/552
+0203814    in Form1_KeyUp 22
+0203814    ex Form1_KeyUp
+0203840    !-paint +43:354-370/4182@-66-542+38/552
+0204068    in Form1_KeyDown 22
+0204068       PAGE DOWN key
+0204068    ex Form1_KeyDown
+0204069    !-paint +14:368-383/4182@-53-517+38/552
+0204182    in Form1_KeyUp 22
+0204182    ex Form1_KeyUp
+0204197    !-paint +43:368-383/4182@-56-514+38/552
+0204547    in Form1_KeyDown 22
+0204547       PAGE DOWN key
+0204547    ex Form1_KeyDown
+0204548    !-paint +6:382-397/4182@-46-524+38/552
+0204680    in Form1_KeyUp 22
+0204680    ex Form1_KeyUp
+0204720    !-paint +43:382-397/4182@-50-520+38/552
+0205092    in Form1_KeyDown 22
+0205092       PAGE DOWN key
+0205092    ex Form1_KeyDown
+0205094    !-paint +29:396-411/4182@-40-530+38/552
+0205210    in Form1_KeyUp 22
+0205210    ex Form1_KeyUp
+0205223    !-paint +43:396-411/4182@-43-527+38/552
+0218828    in Form1_KeyDown 22
+0218828       PAGE DOWN key
+0218828    ex Form1_KeyDown
+0218831    !-paint +19:417-433/4182@-75-533+38/552
+0218976    in Form1_KeyUp 22
+0218976    ex Form1_KeyUp
+0219003    !-paint +43:418-433/4182@-41-529+38/552
+0245511    in Form1_KeyDown 27
+0245511       Arrow Right (faster)
+0245511       myLinesPerSec = 0.76
+0245511       myMsPerScanline = 35
+0245511    ex Form1_KeyDown
+0245514    !-paint +23:434-449/4182@-49-521+38/552
+0245625    in Form1_KeyUp 27
+0245625    ex Form1_KeyUp
+0245653    !-paint +35:434-449/4182@-53-517+38/552
+0245737    in Form1_KeyDown 27
+0245737       Arrow Right (faster)
+0245737       myLinesPerSec = 0.93
+0245737       myMsPerScanline = 28
+0245737    ex Form1_KeyDown
+0245740    !-paint +16:434-449/4182@-55-515+38/552
+0245795    in Form1_KeyUp 27
+0245795    ex Form1_KeyUp
+0245795    !-paint +28:434-450/4182@-57-551+38/552
+0245908    in Form1_KeyDown 27
+0245908       Arrow Right (faster)
+0245908       myLinesPerSec = 1.14
+0245908       myMsPerScanline = 23
+0245908    ex Form1_KeyDown
+0245911    !-paint +3:434-450/4182@-61-547+38/552
+0245951    in Form1_KeyUp 27
+0245951    ex Form1_KeyUp
+0245956    !-paint +23:434-450/4182@-63-545+38/552
+0246067    in Form1_KeyDown 27
+0246067       Arrow Right (faster)
+0246067       myLinesPerSec = 1.41
+0246067       myMsPerScanline = 19
+0246067    ex Form1_KeyDown
+0246069    !-paint +21:434-450/4182@-68-540+38/552
+0246106    in Form1_KeyUp 27
+0246106    ex Form1_KeyUp
+0246107    !-paint +19:434-450/4182@-70-538+38/552
+0246222    in Form1_KeyDown 27
+0246222       Arrow Right (faster)
+0246222       myLinesPerSec = 1.73
+0246222       myMsPerScanline = 15
+0246222    ex Form1_KeyDown
+0246225    !-paint +3:434-450/4182@-76-532+38/552
+0246274    in Form1_KeyUp 27
+0246274    ex Form1_KeyUp
+0246285    !-paint +15:435-450/4182@-42-528+38/552
+0246391    in Form1_KeyDown 27
+0246391       Arrow Right (faster)
+0246391       myLinesPerSec = 2.13
+0246391       myMsPerScanline = 12
+0246391    ex Form1_KeyDown
+0246394    !-paint +4:435-450/4182@-49-521+38/552
+0246446    in Form1_KeyUp 27
+0246446    ex Form1_KeyUp
+0246453    !-paint +12:435-450/4182@-54-516+38/552
+0337676    in Form1_KeyDown 21
+0337676       PAGE UP key
+0337676    ex Form1_KeyDown
+0337678    !-paint +12:635-650/4182@-56-514+38/552
+0337805    in Form1_KeyUp 21
+0337805    ex Form1_KeyUp
+0337815    !-paint +12:622-637/4182@-47-523+38/552
+0344756    in Form1_KeyDown 21
+0344756       PAGE UP key
+0344756    ex Form1_KeyDown
+0344759    !-paint +9:623-639/4182@-73-535+38/552
+0344852    in Form1_KeyUp 21
+0344852    ex Form1_KeyUp
+0344855    !-paint +12:624-639/4182@-43-527+38/552
+0377916    in Form1_KeyDown 20011
+0377916    ex Form1_KeyDown
+0378220    in Form1_KeyDown 2004c
+0378220       control L key
+0378221       in MakeRawTextIntoCookedText
+0378226          !-paint +12:697-712/4182@-50-520+38/552
+0378246       ex MakeRawTextIntoCookedText
+0378246       in MakeCookedTextIntoWrappedLineArray
+0378246          in Mutex
+0378246          ex Mutex
+0378246          !-empty
+0378253          OutList.Count = 4182
+0378253       ex MakeCookedTextIntoWrappedLineArray
+0378253    ex Form1_KeyDown
+0378253    in Form1_KeyPress
+0378253    ex Form1_KeyPress
+0378341    in Form1_KeyUp 2004c
+0378341    ex Form1_KeyUp
+0378375    in Form1_KeyUp 11
+0378375    ex Form1_KeyUp
+0378554    !-paint +303:0-14/4182@3-535+38/552
+0380255    in Form1_KeyDown 1b
+0380255       ESCAPE key = EXIT
+0380256       in Form1_FormClosing
+0380256          joining
+0380256       ex /-/-/- hotPaintWorker (A THREAD)
+0380260    ex Form1_FormClosing
+0380260 ex Form1_KeyDown
+0380260 in Form1_KeyPress
+0380260 ex Form1_KeyPress
+0380268 in Form1_LostFocus
+0380268    in Mutex
+0380269    ex Mutex
+0380269 ex Form1_LostFocus
+0380274 in Application_Exit
+0380274    in Mutex
+0380274       in DiscardBacking
+0380274       ex DiscardBacking
+0380274    ex Mutex will never happen again
+0380274 ex Application_Exit 7/4/2022 1:11:52 AM
